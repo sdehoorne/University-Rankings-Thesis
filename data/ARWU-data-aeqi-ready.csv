@@ -1,0 +1,1001 @@
+,country,Continent,univNameEn,Rank,scores_overall_calc,n_students
+10315,United States,NORTH AMERICA,Harvard University,1,100.0,41987
+10316,United States,NORTH AMERICA,Stanford University,2,75.8,16163
+10317,United Kingdom,EUROPE,University of Cambridge,3,70.6,19875
+10318,United States,NORTH AMERICA,Massachusetts Institute of Technology (MIT),4,69.5,11084
+10319,United States,NORTH AMERICA,"University of California, Berkeley",5,66.0,39874
+10320,United States,NORTH AMERICA,Princeton University,6,59.7,8105
+10321,United Kingdom,EUROPE,University of Oxford,7,59.2,20785
+10322,United States,NORTH AMERICA,Columbia University,8,58.0,33301
+10323,United States,NORTH AMERICA,California Institute of Technology,9,57.9,2240
+10324,United States,NORTH AMERICA,University of Chicago,10,54.7,16020
+10325,United States,NORTH AMERICA,Yale University,11,53.7,14389
+10326,United States,NORTH AMERICA,Cornell University,12,50.3,23872
+10327,France,EUROPE,Paris-Saclay University,13,49.4,30101
+10328,United States,NORTH AMERICA,"University of California, Los Angeles",14,48.9,43856
+10329,United States,NORTH AMERICA,University of Pennsylvania,15,47.9,21312
+10330,United States,NORTH AMERICA,Johns Hopkins University,16,47.6,33543
+10331,United Kingdom,EUROPE,University College London,17,47.3,34785
+10332,United States,NORTH AMERICA,"University of California, San Diego",18,46.3,39811
+10333,United States,NORTH AMERICA,University of Washington,19,46.2,49324
+10334,United States,NORTH AMERICA,"University of California, San Francisco",20,44.6,3185
+10335,Switzerland,EUROPE,ETH Zurich,21,44.4,22461
+10336,Canada,NORTH AMERICA,University of Toronto,22,41.3,81015
+10337,United States,NORTH AMERICA,Washington University in St. Louis,23,40.7,14108
+10338,Japan,ASIA,The University of Tokyo,24,40.6,28409
+10339,United Kingdom,EUROPE,Imperial College London,25,40.5,20135
+10340,United States,NORTH AMERICA,University of Michigan - Ann Arbor,26,40.2,43727
+10341,United States,NORTH AMERICA,New York University,27,39.6,58091
+10342,China,ASIA,Tsinghua University,28,39.4,56939
+10343,United States,NORTH AMERICA,University of North Carolina at Chapel Hill,29,38.1,27604
+10344,Denmark,EUROPE,University of Copenhagen,30,37.7,37493
+10345,United States,NORTH AMERICA,University of Wisconsin - Madison,31,37.6,41265
+10346,United States,NORTH AMERICA,Duke University,32,37.5,18159
+10347,Australia,OCEANIA,The University of Melbourne,33,37.1,67373
+10348,United States,NORTH AMERICA,Northwestern University,34,36.5,25614
+10349,France,EUROPE,Sorbonne University,35,35.7,46310
+10350,United Kingdom,EUROPE,The University of Manchester,36,35.7,37090
+10351,Japan,ASIA,Kyoto University,37,35.6,22596
+10352,France,EUROPE,PSL University,38,35.2,16218
+10353,United Kingdom,EUROPE,The University of Edinburgh,39,35.2,30445
+10354,United States,NORTH AMERICA,"University of Minnesota, Twin Cities",40,35.1,44997
+10355,United States,NORTH AMERICA,The University of Texas at Austin,41,34.8,55128
+10356,Sweden,EUROPE,Karolinska Institute,42,34.6,8393
+10357,United States,NORTH AMERICA,Rockefeller University,43,34.6,248
+10358,Canada,NORTH AMERICA,University of British Columbia,44,34.7,60532
+10359,China,ASIA,Peking University,45,34.5,52326
+10360,United States,NORTH AMERICA,University of Colorado at Boulder,46,33.8,35975
+10361,United Kingdom,EUROPE,King's College London,47,33.5,28455
+10362,United States,NORTH AMERICA,The University of Texas Southwestern Medical Center at Dallas,48,33.2,2514
+10363,Germany,EUROPE,University of Munich,49,33.2,36436
+10364,Netherlands,EUROPE,Utrecht University,50,33.0,34958
+10365,Australia,OCEANIA,The University of Queensland,51,32.5,41463
+10366,Germany,EUROPE,Technical University of Munich,52,32.3,42705
+10367,China,ASIA,Zhejiang University,53,32.3,65605
+10368,Switzerland,EUROPE,University of Zurich,54,32.2,29715
+10369,United States,NORTH AMERICA,University of Illinois at Urbana-Champaign,55,32.1,47321
+10370,United States,NORTH AMERICA,"University of Maryland, College Park",56,31.9,34656
+10371,Germany,EUROPE,Heidelberg University,57,31.4,19320
+10372,United States,NORTH AMERICA,"University of California, Santa Barbara",58,31.4,25701
+10373,China,ASIA,Shanghai Jiao Tong University,59,30.9,42010
+10374,Switzerland,EUROPE,University of Geneva,60,30.9,16935
+10375,Norway,EUROPE,University of Oslo,61,30.7,27505
+10376,United States,NORTH AMERICA,University of Southern California,62,30.7,40417
+10377,China,ASIA,University of Science and Technology of China,63,30.2,36651
+10378,Netherlands,EUROPE,University of Groningen,64,30.0,33402
+10379,Australia,OCEANIA,The University of New South Wales,65,29.9,43336
+10380,United States,NORTH AMERICA,Vanderbilt University,66,29.9,12655
+10381,Canada,NORTH AMERICA,McGill University,67,29.6,31294
+10382,United States,NORTH AMERICA,The University of Texas M. D. Anderson Cancer Center,68,29.6,551
+10383,Australia,OCEANIA,University of Sydney,69,29.5,46452
+10384,United States,NORTH AMERICA,"University of California, Irvine",70,29.4,35537
+10385,Denmark,EUROPE,Aarhus University,71,29.2,30013
+10386,Belgium,EUROPE,Ghent University,72,29.1,39447
+10387,France,EUROPE,University of Paris,73,29.0,61390
+10388,Sweden,EUROPE,Stockholm University,74,28.9,27185
+10389,Singapore,ASIA,National University of Singapore,75,28.8,30869
+10390,Australia,OCEANIA,The Australian National University,76,28.5,17358
+10391,China,ASIA,Fudan University,77,28.4,38340
+10392,United Kingdom,EUROPE,University of Bristol,78,28.3,24270
+10393,Sweden,EUROPE,Uppsala University,79,28.3,26045
+10394,Australia,OCEANIA,Monash University,80,28.2,68316
+10395,Singapore,ASIA,Nanyang Technological University,81,27.9,25088
+10396,Finland,EUROPE,University of Helsinki,82,27.8,31572
+10397,Netherlands,EUROPE,Leiden University,83,27.7,33279
+10398,Japan,ASIA,Nagoya University,84,27.3,15224
+10399,Germany,EUROPE,University of Bonn,85,27.3,38043
+10400,United States,NORTH AMERICA,Purdue University - West Lafayette,86,27.2,47412
+10401,Belgium,EUROPE,KU Leuven,87,27.1,47445
+10402,Switzerland,EUROPE,University of Basel,88,27.1,11518
+10403,China,ASIA,Sun Yat-sen University,89,26.9,54996
+10404,Israel,ASIA,The Hebrew University of Jerusalem,90,26.7,16137
+10405,Switzerland,EUROPE,Swiss Federal Institute of Technology Lausanne,91,26.6,10492
+10406,Canada,NORTH AMERICA,McMaster University,92,26.5,32291
+10407,Israel,ASIA,Weizmann Institute of Science,93,26.5,1000
+10408,Israel,ASIA,Technion-Israel Institute of Technology,94,26.4,14703
+10409,United States,NORTH AMERICA,Boston University,95,26.2,26147
+10410,Australia,OCEANIA,The University of Western Australia,96,26.1,18287
+10411,United States,NORTH AMERICA,Carnegie Mellon University,97,26.0,14223
+10412,Russia,EUROPE,Moscow State University,98,26.0,29235
+10413,United States,NORTH AMERICA,University of Florida,99,26.0,49038
+10414,United States,NORTH AMERICA,"University of California, Davis",100,25.9,37294
+10415,France,EUROPE,Aix Marseille University,101,22.7,72945
+10416,United States,NORTH AMERICA,Arizona State University,102,25.2,48988
+10417,United States,NORTH AMERICA,Brown University,103,25.4,10760
+10418,United States,NORTH AMERICA,Case Western Reserve University,104,22.4,10666
+10419,United States,NORTH AMERICA,Emory University,105,23.8,12828
+10420,Netherlands,EUROPE,Erasmus University Rotterdam,106,25.7,31149
+10421,United States,NORTH AMERICA,Georgia Institute of Technology,107,22.5,38951
+10422,China,ASIA,Huazhong University of Science and Technology,108,25.1,56782
+10423,United States,NORTH AMERICA,Icahn School of Medicine at Mount Sinai,109,25.0,1242
+10424,United States,NORTH AMERICA,Indiana University Bloomington,110,22.8,40181
+10425,Saudi Arabia,ASIA,King Abdulaziz University,111,22.7,32853
+10426,Saudi Arabia,ASIA,King Saud University,112,23.2,37616
+10427,United States,NORTH AMERICA,Mayo Clinic Alix School of Medicine,113,25.3,1249
+10428,United States,NORTH AMERICA,Michigan State University,114,22.2,44745
+10429,China,ASIA,Nanjing University,115,21.9,36625
+10430,Norway,EUROPE,Norwegian University of Science and Technology - NTNU,116,22.9,41971
+10431,United States,NORTH AMERICA,Pennsylvania State University - University Park,117,24.5,44928
+10432,Netherlands,EUROPE,Radboud University Nijmegen,118,25.8,25356
+10433,United States,NORTH AMERICA,Rice University,119,24.9,6884
+10434,United States,NORTH AMERICA,"Rutgers, The State University of New Jersey - New Brunswick",120,25.2,44805
+10435,South Korea,ASIA,Seoul National University,121,25.3,27784
+10436,China-Hong Kong,ASIA,The Chinese University of Hong Kong,122,23.0,18400
+10437,United States,NORTH AMERICA,The Ohio State University - Columbus,123,25.8,61492
+10438,Australia,OCEANIA,The University of Adelaide,124,22.9,21515
+10439,China-Hong Kong,ASIA,The University of Hong Kong,125,22.9,18260
+10440,United Kingdom,EUROPE,The University of Sheffield,126,23.2,25490
+10441,Japan,ASIA,Tokyo Institute of Technology,127,22.3,9752
+10442,France,EUROPE,UniversitÃ© Grenoble Alpes,128,25.4,50987
+10443,Belgium,EUROPE,UniversitÃ© libre de Bruxelles (ULB),129,23.1,27194
+10444,Canada,NORTH AMERICA,University of Alberta,130,25.5,31919
+10445,Netherlands,EUROPE,University of Amsterdam,131,24.3,35709
+10446,United States,NORTH AMERICA,University of Arizona,132,22.1,48653
+10447,Switzerland,EUROPE,University of Bern,133,24.2,11090
+10448,United Kingdom,EUROPE,University of Birmingham,134,23.3,32135
+10449,Germany,EUROPE,University of Freiburg,135,24.3,21475
+10450,Germany,EUROPE,University of Goettingen,136,24.1,30773
+10451,Sweden,EUROPE,University of Gothenburg,137,22.6,19677
+10452,Switzerland,EUROPE,University of Lausanne,138,22.6,14094
+10453,United Kingdom,EUROPE,University of Leeds,139,22.5,32024
+10454,United Kingdom,EUROPE,University of Liverpool,140,24.5,26575
+10455,Canada,NORTH AMERICA,University of Montreal,141,22.4,36794
+10456,United Kingdom,EUROPE,University of Nottingham,142,25.3,33115
+10457,United States,NORTH AMERICA,University of Pittsburgh,143,25.2,31667
+10458,Brazil,SOUTH AMERICA,University of Sao Paulo,144,24.4,67005
+10459,France,EUROPE,University of Strasbourg,145,22.7,46898
+10460,United States,NORTH AMERICA,University of Utah,146,23.8,31063
+10461,United Kingdom,EUROPE,University of Warwick,147,23.9,23430
+10462,Netherlands,EUROPE,Vrije Universiteit Amsterdam,148,22.8,30822
+10463,Netherlands,EUROPE,Wageningen University & Research,149,22.4,13914
+10464,China,ASIA,Xi'an Jiaotong University,150,22.7,46730
+10465,United States,NORTH AMERICA,Baylor College of Medicine,151,21.1,1648
+10466,China,ASIA,Beijing Institute of Technology,152,19.1,28771
+10467,United Kingdom,EUROPE,Cardiff University,153,20.7,27510
+10468,Belgium,EUROPE,Catholic University of Louvain,154,19.6,30957
+10469,China,ASIA,Central South University,155,21.9,63655
+10470,China-Hong Kong,ASIA,City University of Hong Kong,156,19.6,9233
+10471,Netherlands,EUROPE,Delft University of Technology,157,21.1,18743
+10472,Germany,EUROPE,Goethe University Frankfurt,158,20.8,47141
+10473,China,ASIA,Harbin Institute of Technology,159,21.9,36258
+10474,Japan,ASIA,Hokkaido University,160,19.7,18483
+10475,China,ASIA,Jilin University,161,19.2,71755
+10476,United Kingdom,EUROPE,London School of Economics and Political Science,162,21.5,11310
+10477,Sweden,EUROPE,Lund University,163,21.2,27266
+10478,China,ASIA,Northwestern Polytechnical University,164,19.4,28990
+10479,Japan,ASIA,Osaka University,165,21.3,22485
+10480,Italy,EUROPE,Sapienza University of Rome,166,20.9,77390
+10481,China,ASIA,Shandong University,167,20.8,66652
+10482,China,ASIA,Sichuan University,168,21.8,55419
+10483,China,ASIA,Soochow University (China),169,20.5,42264
+10484,China,ASIA,South China University of Technology,170,20.3,43758
+10485,China,ASIA,Southeast University,171,21.9,36710
+10486,Denmark,EUROPE,Technical University of Denmark,172,21.7,9265
+10487,Israel,ASIA,Tel Aviv University,173,21.0,25547
+10488,United States,NORTH AMERICA,Texas A&M University,174,20.9,73267
+10489,China-Hong Kong,ASIA,The Hong Kong Polytechnic University,175,19.2,19869
+10490,Canada,NORTH AMERICA,The University of Calgary,176,20.1,28560
+10491,United Kingdom,EUROPE,The University of Glasgow,177,21.7,27440
+10492,China,ASIA,Tianjin University,178,19.8,41091
+10493,Japan,ASIA,Tohoku University,179,19.4,17411
+10494,China,ASIA,Tongji University,180,19.9,41752
+10495,Ireland,EUROPE,Trinity College Dublin,181,20.2,16564
+10496,United States,NORTH AMERICA,Tufts University,182,20.0,12781
+10497,Spain,EUROPE,University of Barcelona,183,20.2,57214
+10498,United States,NORTH AMERICA,"University of California, Santa Cruz",184,20.8,19020
+10499,Germany,EUROPE,University of Cologne,185,20.7,36965
+10500,China,ASIA,University of Electronic Science and Technology of China,186,19.8,32763
+10501,United Kingdom,EUROPE,University of Exeter,187,21.6,23552
+10502,Italy,EUROPE,University of Milan,188,19.6,29555
+10503,France,EUROPE,University of Montpellier,189,20.9,37708
+10504,Germany,EUROPE,University of Muenster,190,20.1,32791
+10505,Italy,EUROPE,University of Padua,191,19.1,45169
+10506,Italy,EUROPE,University of Pisa,192,21.1,33726
+10507,United States,NORTH AMERICA,University of Rochester,193,20.3,10364
+10508,United Kingdom,EUROPE,University of Southampton,194,20.4,20570
+10509,United Kingdom,EUROPE,University of Sussex,195,20.0,17995
+10510,Germany,EUROPE,University of Tuebingen,196,20.2,27901
+10511,Austria,EUROPE,University of Vienna,197,20.2,33547
+10512,United States,NORTH AMERICA,University of Virginia,198,19.3,28593
+10513,Canada,NORTH AMERICA,University of Waterloo,199,21.1,38940
+10514,China,ASIA,Wuhan University,200,21.6,59329
+10515,Spain,EUROPE,Autonomous University of Barcelona,201,16.6,32902
+10516,China,ASIA,Beihang University,202,19.0,31774
+10517,China,ASIA,Beijing Normal University,203,17.3,24880
+10518,Czech Republic,EUROPE,Charles University in Prague,204,15.5,49449
+10519,China,ASIA,China Agricultural University,205,16.2,22167
+10520,China-Taiwan,ASIA,China Medical University (Taichung),206,17.3,7199
+10521,China,ASIA,Chongqing University,207,16.2,43225
+10522,France,EUROPE,Claude Bernard University Lyon 1,208,17.1,29529
+10523,United States,NORTH AMERICA,Colorado State University,209,16.4,37356
+10524,Spain,EUROPE,Complutense University of Madrid,210,16.5,59788
+10525,Australia,OCEANIA,Curtin University,211,18.3,30000
+10526,Canada,NORTH AMERICA,Dalhousie University,212,16.2,16229
+10527,Australia,OCEANIA,Deakin University,213,17.5,37919
+10528,United States,NORTH AMERICA,Florida State University,214,17.6,46825
+10529,United States,NORTH AMERICA,George Mason University,215,17.9,31896
+10530,United States,NORTH AMERICA,Georgetown University,216,16.3,22534
+10531,Australia,OCEANIA,Griffith University,217,15.5,35119
+10532,South Korea,ASIA,Hanyang University,218,16.0,20087
+10533,China,ASIA,Hunan University,219,18.8,36551
+10534,Australia,OCEANIA,James Cook University,220,16.6,19902
+10535,Germany,EUROPE,Karlsruhe Institute of Technology (KIT),221,16.7,27255
+10536,Saudi Arabia,ASIA,King Abdullah University of Science and Technology,222,16.8,1432
+10537,South Korea,ASIA,Korea Advanced Institute of Science and Technology,223,17.2,9481
+10538,South Korea,ASIA,Korea University,224,17.6,22965
+10539,Sweden,EUROPE,KTH Royal Institute of Technology,225,16.0,13329
+10540,Japan,ASIA,Kyushu University,226,15.9,18643
+10541,United Kingdom,EUROPE,London School of Hygiene & Tropical Medicine,227,18.3,4700
+10542,Netherlands,EUROPE,Maastricht University,228,16.2,16857
+10543,Australia,OCEANIA,Macquarie University,229,17.6,43403
+10544,Austria,EUROPE,Medical University of Vienna,230,18.5,7142
+10545,China,ASIA,Nankai University,231,19.1,31718
+10546,Mexico,NORTH AMERICA,National Autonomous University of Mexico,232,16.8,197407
+10547,China-Taiwan,ASIA,National Taiwan University,233,18.0,27254
+10548,United Kingdom,EUROPE,Newcastle University,234,17.1,25950
+10549,United States,NORTH AMERICA,North Carolina State University - Raleigh,235,16.2,30082
+10550,United States,NORTH AMERICA,Northeastern University (Boston),236,16.6,28374
+10551,United States,NORTH AMERICA,Oregon Health and Science University,237,18.1,3301
+10552,United States,NORTH AMERICA,Oregon State University,238,17.1,38110
+10553,China,ASIA,Peking Union Medical College,239,15.7,6633
+10554,Italy,EUROPE,Polytechnic University of Milan,240,16.1,35184
+10555,United Kingdom,EUROPE,Queen Mary University of London,241,18.3,19595
+10556,Canada,NORTH AMERICA,Queen's University,242,17.3,27045
+10557,Australia,OCEANIA,Queensland University of Technology,243,15.3,35257
+10558,Germany,EUROPE,RWTH Aachen University,244,17.4,44699
+10559,China,ASIA,Shanghai University,245,15.4,37714
+10560,China,ASIA,Shenzhen University,246,18.2,35145
+10561,South Korea,ASIA,Sungkyunkwan University,247,18.1,26953
+10562,Sweden,EUROPE,Swedish University of Agricultural Sciences,248,15.3,3737
+10563,Australia,OCEANIA,Swinburne University of Technology,249,16.6,41833
+10564,Germany,EUROPE,Technical University of Berlin,250,15.4,22622
+10565,China-Hong Kong,ASIA,The Hong Kong University of Science and Technology,251,15.3,9668
+10566,New Zealand,OCEANIA,The University of Auckland,252,18.6,33092
+10567,United States,NORTH AMERICA,The University of Georgia,253,16.6,37465
+10568,Germany,EUROPE,TU Dresden,254,16.8,31081
+10569,United Kingdom,EUROPE,University of Aberdeen,255,17.2,12910
+10570,Belgium,EUROPE,University of Antwerp,256,15.7,15862
+10571,Italy,EUROPE,University of Bologna,257,17.5,65819
+10572,France,EUROPE,University of Bordeaux,258,16.9,54965
+10573,Argentina,SOUTH AMERICA,University of Buenos Aires,259,16.4,117449
+10574,United States,NORTH AMERICA,"University of California, Riverside",260,19.0,25816
+10575,South Africa,AFRICA,University of Cape Town,261,16.6,21812
+10576,United States,NORTH AMERICA,University of Cincinnati,262,16.0,43692
+10577,United States,NORTH AMERICA,University of Colorado at Denver,263,18.0,32857
+10578,United States,NORTH AMERICA,University of Connecticut,264,15.7,30747
+10579,United States,NORTH AMERICA,University of Delaware,265,19.1,21451
+10580,United Kingdom,EUROPE,University of East Anglia,266,18.2,16245
+10581,Germany,EUROPE,University of Erlangen-Nuremberg,267,16.9,38111
+10582,Italy,EUROPE,University of Florence,268,15.6,34686
+10583,Spain,EUROPE,University of Granada,269,16.7,52640
+10584,Germany,EUROPE,University of Hamburg,270,16.3,31517
+10585,United States,NORTH AMERICA,University of Houston,271,15.3,42080
+10586,United States,NORTH AMERICA,University of Illinois at Chicago,272,15.8,26381
+10587,Austria,EUROPE,University of Innsbruck,273,15.8,12321
+10588,United States,NORTH AMERICA,University of Iowa,274,17.1,29052
+10589,United States,NORTH AMERICA,University of Kansas,275,16.5,24012
+10590,Germany,EUROPE,University of Kiel,276,17.3,26412
+10591,Germany,EUROPE,University of Leipzig,277,17.8,31088
+10592,Portugal,EUROPE,University of Lisbon,278,18.7,49847
+10593,France,EUROPE,University of Lorraine,279,18.7,64565
+10594,Germany,EUROPE,University of Mainz,280,16.9,31919
+10595,United States,NORTH AMERICA,University of Massachusetts Amherst,281,18.9,29201
+10596,United States,NORTH AMERICA,University of Massachusetts Medical School - Worcester,282,18.7,1227
+10597,United States,NORTH AMERICA,University of Miami,283,17.6,17008
+10598,United States,NORTH AMERICA,University of Missouri - Columbia,284,18.8,26643
+10599,United States,NORTH AMERICA,University of Nebraska - Lincoln,285,16.1,28686
+10600,Canada,NORTH AMERICA,University of Ottawa,286,18.9,36670
+10601,China,ASIA,University of Science and Technology Beijing,287,15.5,27377
+10602,United States,NORTH AMERICA,University of South Florida,288,15.8,39906
+10603,Australia,OCEANIA,University of Technology Sydney,289,18.0,32868
+10604,United States,NORTH AMERICA,University of Tennessee - Knoxville,290,16.0,31477
+10605,Japan,ASIA,University of Tsukuba,291,16.6,16994
+10606,Italy,EUROPE,University of Turin,292,18.0,57586
+10607,Australia,OCEANIA,University of Wollongong,293,17.2,18995
+10608,Germany,EUROPE,University of Wuerzburg,294,17.9,23383
+10609,United States,NORTH AMERICA,Virginia Commonwealth University,295,17.0,33462
+10610,United States,NORTH AMERICA,Virginia Polytechnic Institute and State University,296,16.9,36322
+10611,Belgium,EUROPE,Vrije Universiteit Brussel (VUB),297,15.4,13301
+10612,Canada,NORTH AMERICA,Western University,298,16.6,28301
+10613,China,ASIA,Xiamen University,299,17.7,38803
+10614,South Korea,ASIA,Yonsei University,300,15.3,17744
+10615,Denmark,EUROPE,Aalborg University,301,15.0,16951
+10616,Finland,EUROPE,Aalto University,302,13.2,11913
+10617,United States,NORTH AMERICA,Albert Einstein College of Medicine,303,14.5,1052
+10618,Spain,EUROPE,Autonomous University of Madrid,304,14.0,30354
+10619,China,ASIA,Beijing University of Chemical Technology,305,14.0,23338
+10620,United States,NORTH AMERICA,Brandeis University,306,14.1,5427
+10621,China,ASIA,Capital Medical University,307,14.2,11031
+10622,China,ASIA,China University of Geosciences (Wuhan),308,13.4,29649
+10623,China,ASIA,Dalian University of Technology,309,14.8,42146
+10624,United States,NORTH AMERICA,Dartmouth College,310,15.0,6531
+10625,United States,NORTH AMERICA,Drexel University,311,13.2,19796
+10626,United Kingdom,EUROPE,Durham University,312,15.1,19900
+10627,China,ASIA,East China Normal University,313,13.7,35817
+10628,China,ASIA,East China University of Science and Technology,314,14.3,26659
+10629,France,EUROPE,Ecole Normale Superieure - Lyon,315,15.1,2004
+10630,Netherlands,EUROPE,Eindhoven University of Technology,316,13.3,8917
+10631,Brazil,SOUTH AMERICA,Federal University of Rio Grande do Sul,317,13.8,39159
+10632,China,ASIA,Fuzhou University,318,12.9,35717
+10633,China,ASIA,Guangdong University of Technology,319,12.7,43461
+10634,Germany,EUROPE,Heinrich Heine University Duesseldorf,320,14.2,36569
+10635,China,ASIA,Huazhong Agricultural University,321,13.2,29939
+10636,United States,NORTH AMERICA,Indiana University-Purdue University at Indianapolis,322,14.1,25779
+10637,France,EUROPE,Institut Polytechnique de Paris,323,14.0,5930
+10638,United States,NORTH AMERICA,Iowa State University,324,14.1,31901
+10639,China,ASIA,Jiangsu University,325,13.1,32899
+10640,Japan,ASIA,Keio University,326,15.0,33224
+10641,South Korea,ASIA,Kyungpook National University,327,13.0,24155
+10642,Australia,OCEANIA,La Trobe University,328,15.3,25371
+10643,United Kingdom,EUROPE,Lancaster University,329,13.4,13145
+10644,China,ASIA,Lanzhou University,330,14.0,35629
+10645,Canada,NORTH AMERICA,Laval University,331,15.1,29250
+10646,Sweden,EUROPE,Linkoping University,332,14.1,18544
+10647,United States,NORTH AMERICA,Medical University of South Carolina,333,14.3,3402
+10648,China,ASIA,Nanchang University,334,14.6,48939
+10649,China,ASIA,Nanjing Agricultural University,335,14.0,28027
+10650,China,ASIA,Nanjing Medical University,336,14.6,15840
+10651,China,ASIA,NanJing Tech University,337,13.0,34694
+10652,China,ASIA,Nanjing University of Aeronautics and Astronautics,338,14.4,30804
+10653,China,ASIA,Nanjing University of Science and Technology,339,14.2,29139
+10654,Greece,EUROPE,National and Kapodistrian University of Athens,340,13.9,57697
+10655,China,ASIA,Northeastern University (Shenyang),341,12.9,38029
+10656,China,ASIA,Ocean University of China,342,13.1,27656
+10657,France,EUROPE,Paul Sabatier University (Toulouse 3),343,14.9,31511
+10658,Spain,EUROPE,Polytechnic University of Valencia,344,12.9,23607
+10659,Australia,OCEANIA,RMIT University,345,14.1,33848
+10660,Russia,EUROPE,Saint Petersburg State University,346,14.8,24336
+10661,Canada,NORTH AMERICA,Simon Fraser University,347,13.2,26521
+10662,China,ASIA,Southern University of Science and Technology,348,13.6,5408
+10663,United States,NORTH AMERICA,Stony Brook University,349,14.8,26067
+10664,United States,NORTH AMERICA,The George Washington University,350,15.1,21725
+10665,United Kingdom,EUROPE,The University of Dundee,351,13.5,14385
+10666,Australia,OCEANIA,"The University of Newcastle, Australia",352,13.7,24356
+10667,United Kingdom,EUROPE,The University of Reading,353,13.7,15950
+10668,United States,NORTH AMERICA,The University of Texas at Dallas,354,13.6,31419
+10669,United States,NORTH AMERICA,The University of Texas Health Science Center at Houston,355,14.6,6553
+10670,South Korea,ASIA,Ulsan National Institute of Science and Technology,356,15.0,4127
+10671,Brazil,SOUTH AMERICA,UNESP,357,14.0,39577
+10672,United States,NORTH AMERICA,"University at Buffalo, the State University of New York",358,14.6,28074
+10673,Ireland,EUROPE,University College Cork,359,13.7,17473
+10674,Ireland,EUROPE,University College Dublin,360,14.8,22541
+10675,United States,NORTH AMERICA,University of Alabama at Birmingham,361,15.2,25705
+10676,United Kingdom,EUROPE,University of Bath,362,13.5,16725
+10677,Norway,EUROPE,University of Bergen,363,13.1,15202
+10678,Brazil,SOUTH AMERICA,University of Campinas,364,14.0,30088
+10679,United States,NORTH AMERICA,University of Central Florida,365,14.6,57496
+10680,Germany,EUROPE,University of Duisburg-Essen,366,14.4,42022
+10681,United States,NORTH AMERICA,University of Hawaii at Manoa,367,15.0,14695
+10682,United States,NORTH AMERICA,University of Kentucky,368,14.3,30981
+10683,United Kingdom,EUROPE,University of Leicester,369,15.3,15045
+10684,Belgium,EUROPE,University of Liege,370,14.6,23596
+10685,Malaysia,ASIA,University of Malaya,371,13.6,15140
+10686,Canada,NORTH AMERICA,University of Manitoba,372,13.8,29311
+10687,United States,NORTH AMERICA,"University of Maryland, Baltimore",373,14.7,7573
+10688,Italy,EUROPE,University of Milano-Bicocca,374,14.5,26509
+10689,Italy,EUROPE,University of Naples Federico II,375,14.6,49604
+10690,United States,NORTH AMERICA,University of Notre Dame,376,13.7,12584
+10691,United States,NORTH AMERICA,University of Oregon,377,13.4,21844
+10692,New Zealand,OCEANIA,University of Otago,378,15.2,18509
+10693,Portugal,EUROPE,University of Porto,379,15.3,30379
+10694,Canada,NORTH AMERICA,University of Saskatchewan,380,12.8,17194
+10695,United States,NORTH AMERICA,University of South Carolina - Columbia,381,13.6,37510
+10696,Denmark,EUROPE,University of Southern Denmark,382,14.5,22983
+10697,United Kingdom,EUROPE,University of St Andrews,383,14.9,9600
+10698,Germany,EUROPE,University of Stuttgart,384,13.9,26004
+10699,United Kingdom,EUROPE,University of Surrey,385,13.1,15085
+10700,Australia,OCEANIA,University of Tasmania,386,15.3,18157
+10701,Iran,ASIA,University of Tehran,387,13.0,53614
+10702,Spain,EUROPE,University of the Basque Country,388,14.0,42869
+10703,South Africa,AFRICA,University of the Witwatersrand,389,15.3,27586
+10704,France,EUROPE,University of Toulouse 1,390,14.4,20543
+10705,Finland,EUROPE,University of Turku,391,13.7,12906
+10706,Germany,EUROPE,University of Ulm,392,14.9,10271
+10707,Spain,EUROPE,University of Valencia,393,15.1,49127
+10708,Canada,NORTH AMERICA,University of Victoria,394,13.2,20936
+10709,Austria,EUROPE,Vienna University of Technology,395,13.9,10464
+10710,United States,NORTH AMERICA,Washington State University,396,13.2,27673
+10711,Australia,OCEANIA,Western Sydney University,397,14.2,47260
+10712,China,ASIA,Wuhan University of Technology,398,14.8,53884
+10713,Canada,NORTH AMERICA,York University,399,12.8,46824
+10714,China,ASIA,Zhengzhou University,400,14.7,70683
+10715,Israel,ASIA,Bar-Ilan University,401,12.5,17280
+10716,China,ASIA,Beijing Jiaotong University,402,11.0,30023
+10717,China,ASIA,Beijing University of Technology,403,12.0,22164
+10718,Israel,ASIA,Ben-Gurion University of the Negev,404,11.6,20000
+10719,United States,NORTH AMERICA,Boston College,405,11.3,15981
+10720,United States,NORTH AMERICA,Brigham Young University,406,11.6,39233
+10721,Egypt,AFRICA,Cairo University,407,12.5,221036
+10722,Canada,NORTH AMERICA,Carleton University,408,11.6,27570
+10723,Italy,EUROPE,Catholic University of the Sacred Heart,409,12.7,28725
+10724,Sweden,EUROPE,Chalmers University of Technology,410,11.9,9573
+10725,China-Taiwan,ASIA,Chang Gung University,411,11.8,7018
+10726,China,ASIA,China University of Geosciences (Beijing),412,11.7,17361
+10727,China,ASIA,China University of Mining and Technology (Xuzhou),413,11.6,33538
+10728,China,ASIA,China University of Petroleum (Huadong),414,11.3,27631
+10729,Pakistan,ASIA,COMSATS University Islamabad,415,11.7,33030
+10730,United States,NORTH AMERICA,CUNY Graduate School and University Center,416,12.4,9887
+10731,Brazil,SOUTH AMERICA,Federal University of Minas Gerais,417,11.3,40805
+10732,Brazil,SOUTH AMERICA,Federal University of Rio de Janeiro,418,12.3,59107
+10733,Australia,OCEANIA,Flinders University,419,12.3,16608
+10734,United States,NORTH AMERICA,Florida International University,420,12.1,36179
+10735,India,ASIA,Indian Institute of Science,421,11.2,4128
+10736,Turkey,ASIA,Istanbul University,422,12.0,59250
+10737,Poland,EUROPE,Jagiellonian University,423,11.6,34221
+10738,China,ASIA,Jinan University,424,12.6,45738
+10739,United States,NORTH AMERICA,Kansas State University,425,11.3,24546
+10740,Saudi Arabia,ASIA,King Fahd University of Petroleum & Minerals,426,11.5,6882
+10741,Japan,ASIA,Kobe University,427,12.2,16226
+10742,South Korea,ASIA,Kyung Hee University,428,12.7,20504
+10743,Thailand,ASIA,Mahidol University,429,11.9,28477
+10744,Austria,EUROPE,Medical University of Innsbruck,430,12.1,2966
+10745,China,ASIA,Nanjing Normal University,431,11.2,28339
+10746,China,ASIA,Nanjing University of Information Science & Technology,432,11.7,28750
+10747,China-Taiwan,ASIA,National Cheng Kung University,433,12.7,20226
+10748,China-Taiwan,ASIA,National Tsing Hua University,434,12.1,13711
+10749,Ireland,EUROPE,"National University of Ireland, Galway",435,11.2,13911
+10750,China-Taiwan,ASIA,National Yang Ming Chiao Tung University,436,12.0,16425
+10751,United States,NORTH AMERICA,Northern Arizona University,437,11.5,29689
+10752,Japan,ASIA,Okayama University,438,12.0,13099
+10753,South Korea,ASIA,Pohang University of Science and Technology,439,12.7,3215
+10754,Spain,EUROPE,Pompeu Fabra University,440,12.8,20497
+10755,South Korea,ASIA,Pusan National University,441,12.2,24331
+10756,China,ASIA,Qingdao University,442,12.7,42887
+10757,United Kingdom,EUROPE,Queen's University Belfast,443,12.0,20458
+10758,United States,NORTH AMERICA,Rensselaer Polytechnic Institute,444,11.0,7816
+10759,United States,NORTH AMERICA,Saint Louis University,445,11.6,16248
+10760,Italy,EUROPE,Scuola Normale Superiore - Pisa,446,11.2,614
+10761,China,ASIA,Shandong University of Science and Technology,447,12.4,42404
+10762,China,ASIA,ShanghaiTech University,448,11.7,3246
+10763,China,ASIA,South China Agricultural University,449,12.0,43633
+10764,China,ASIA,Southern Medical University,450,12.4,19910
+10765,South Africa,AFRICA,Stellenbosch University,451,11.1,24912
+10766,Sweden,EUROPE,Stockholm School of Economics,452,12.7,2000
+10767,United Kingdom,EUROPE,Swansea University,453,11.0,17875
+10768,United States,NORTH AMERICA,The City College of New York,454,11.5,18675
+10769,United States,NORTH AMERICA,The University of New Mexico - Albuquerque,455,12.6,22982
+10770,United States,NORTH AMERICA,The University of Texas Health Science Center at San Antonio,456,11.4,3881
+10771,Sweden,EUROPE,Umea University,457,12.3,17373
+10772,Italy,EUROPE,University of Bari,458,12.3,29564
+10773,Germany,EUROPE,University of Bochum,459,12.7,43015
+10774,United States,NORTH AMERICA,"University of California, Merced",460,11.7,9215
+10775,New Zealand,OCEANIA,University of Canterbury,461,12.4,14336
+10776,Italy,EUROPE,University of Catania,462,12.2,25392
+10777,Chile,SOUTH AMERICA,University of Chile,463,11.2,37337
+10778,France,EUROPE,University of CÃ´te d'Azur,464,12.4,36706
+10779,United Kingdom,EUROPE,University of Essex,465,12.0,14255
+10780,Italy,EUROPE,University of Genoa,466,12.2,21470
+10781,Austria,EUROPE,University of Graz,467,11.1,12551
+10782,Canada,NORTH AMERICA,University of Guelph,468,11.7,22165
+10783,Germany,EUROPE,University of Jena,469,12.1,18219
+10784,France,EUROPE,University of Lille,470,12.7,69287
+10785,China-Macau,ASIA,University of Macau,471,11.1,10920
+10786,United States,NORTH AMERICA,University of Maine,472,11.9,13091
+10787,Germany,EUROPE,University of Marburg,473,11.6,26487
+10788,Portugal,EUROPE,University of Minho,474,11.5,20001
+10789,Austria,EUROPE,"University of Natural Resources and Life Sciences, Vienna",475,12.1,12032
+10790,United States,NORTH AMERICA,University of North Texas,476,11.4,43963
+10791,Finland,EUROPE,University of Oulu,477,12.2,9753
+10792,Italy,EUROPE,University of Pavia,478,12.5,24606
+10793,Italy,EUROPE,University of Perugia,479,11.8,24830
+10794,Germany,EUROPE,University of Potsdam,480,11.5,20063
+10795,South Africa,AFRICA,University of Pretoria,481,11.9,36492
+10796,Spain,EUROPE,University of Salamanca,482,11.4,24109
+10797,Spain,EUROPE,University of Santiago Compostela,483,11.1,24653
+10798,Spain,EUROPE,University of Seville,484,11.8,59783
+10799,Australia,OCEANIA,University of South Australia,485,11.4,31547
+10800,United Kingdom,EUROPE,University of Strathclyde,486,12.2,19425
+10801,Estonia,EUROPE,University of Tartu,487,12.0,8532
+10802,Italy,EUROPE,University of Trento,488,12.0,12920
+10803,Netherlands,EUROPE,University of Twente,489,12.2,7584
+10804,United States,NORTH AMERICA,University of Vermont,490,12.3,12104
+10805,Poland,EUROPE,University of Warsaw,491,12.7,37161
+10806,United Kingdom,EUROPE,University of York,492,11.7,17100
+10807,United States,NORTH AMERICA,Utah State University,493,11.7,32963
+10808,New Zealand,OCEANIA,Victoria University of Wellington,494,12.6,16067
+10809,Italy,EUROPE,Vita-Salute San Raffaele University,495,12.0,2610
+10810,United States,NORTH AMERICA,Wake Forest University,496,11.1,8122
+10811,United States,NORTH AMERICA,Wayne State University,497,12.1,31759
+10812,United States,NORTH AMERICA,West Virginia University,498,11.9,25073
+10813,China,ASIA,Xidian University,499,11.3,36438
+10814,China,ASIA,Yangzhou University,500,12.0,41060
+10815,Greece,EUROPE,Aristotle University of Thessaloniki,501,10.4,51456
+10816,United States,NORTH AMERICA,Auburn University,502,10.3,27513
+10817,Australia,OCEANIA,Australian Catholic University,503,10.3,32752
+10818,United States,NORTH AMERICA,Binghamton University,504,10.1,19454
+10819,United Kingdom,EUROPE,Brunel University,505,10.2,15140
+10820,China,ASIA,Central China Normal University,506,10.3,29847
+10821,China,ASIA,China Medical University (Shenyang),507,10.0,16740
+10822,South Korea,ASIA,Chonnam National University,508,10.1,22469
+10823,Canada,NORTH AMERICA,Concordia University,509,11.0,29322
+10824,Australia,OCEANIA,Edith Cowan University,510,10.4,26402
+10825,South Korea,ASIA,Ewha Womans University,511,9.8,16865
+10826,United States,NORTH AMERICA,Georgia State University,512,10.9,40505
+10827,China,ASIA,Guangzhou University,513,10.1,34138
+10828,Germany,EUROPE,Hannover Medical School,514,10.6,3256
+10829,China,ASIA,Harbin Engineering University,515,10.2,27518
+10830,Belgium,EUROPE,Hasselt University,516,10.1,5189
+10831,China,ASIA,Hefei University of Technology,517,10.4,42898
+10832,Japan,ASIA,Hiroshima University,518,10.3,14612
+10833,China,ASIA,Hohai University,519,10.9,32268
+10834,Italy,EUROPE,Humanitas University,520,10.1,140
+10835,China,ASIA,Jiangnan University,521,10.2,29146
+10836,United States,NORTH AMERICA,Kent State University,522,10.0,33013
+10837,United Kingdom,EUROPE,Loughborough University,523,10.3,17270
+10838,United States,NORTH AMERICA,Louisiana State University - Baton Rouge,524,10.8,33758
+10839,Italy,EUROPE,Marche Polytechnic University,525,10.1,10603
+10840,United States,NORTH AMERICA,Medical College of Wisconsin,526,9.9,1579
+10841,United States,NORTH AMERICA,Mississippi State University,527,10.0,24251
+10842,Russia,EUROPE,Moscow Institute of Physics and Technology,528,10.8,5716
+10843,Australia,OCEANIA,Murdoch University,529,10.0,13907
+10844,Mexico,NORTH AMERICA,National Polytechnic Institute,530,10.1,177983
+10845,Malaysia,ASIA,National University of Malaysia,531,10.7,17180
+10846,China,ASIA,Northwest A&F University,532,10.3,32099
+10847,United States,NORTH AMERICA,Ohio University,533,10.4,33920
+10848,Spain,EUROPE,Polytechnic University of Madrid,534,9.8,39213
+10849,Italy,EUROPE,Polytechnic University of Turin,535,10.0,32950
+10850,Chile,SOUTH AMERICA,Pontifical Catholic University of Chile,536,10.6,31539
+10851,United States,NORTH AMERICA,Rush University,537,10.6,3281
+10852,United States,NORTH AMERICA,San Diego State University,538,10.3,37838
+10853,South Korea,ASIA,Sejong University,539,10.8,12119
+10854,China,ASIA,Shaanxi Normal University,540,10.3,44831
+10855,Iran,ASIA,Sharif University of Technology,541,10.8,9192
+10856,China,ASIA,South China Normal University,542,10.2,36648
+10857,China,ASIA,Southwest Jiaotong University,543,9.8,42100
+10858,China,ASIA,Southwest University,544,9.8,53479
+10859,China,ASIA,Taiyuan University of Technology,545,9.8,38330
+10860,Iran,ASIA,Tarbiat Modares University,546,10.4,8562
+10861,Germany,EUROPE,Technical University Darmstadt,547,9.8,17814
+10862,Iran,ASIA,Tehran University of Medical Sciences,548,10.4,12511
+10863,United States,NORTH AMERICA,Temple University,549,10.6,35050
+10864,United States,NORTH AMERICA,Texas Tech University,550,10.2,41153
+10865,United States,NORTH AMERICA,The University of Alabama - Tuscaloosa,551,9.8,42432
+10866,United States,NORTH AMERICA,The University of Texas at San Antonio,552,10.7,27187
+10867,United States,NORTH AMERICA,The University of Texas Medical Branch at Galveston,553,10.7,4054
+10868,United States,NORTH AMERICA,Thomas Jefferson University,554,10.8,8773
+10869,Japan,ASIA,Tokyo University of Science,555,10.6,19106
+10870,Switzerland,EUROPE,UniversitÃ  Della Svizzera Italiana,556,10.3,3345
+10871,United States,NORTH AMERICA,University at Albany (State University of New York),557,10.5,16093
+10872,United States,NORTH AMERICA,University of Alaska - Fairbanks,558,9.9,12297
+10873,Serbia,EUROPE,University of Belgrade,559,11.0,97225
+10874,Brazil,SOUTH AMERICA,University of BrasÃ­lia,560,10.2,44074
+10875,Germany,EUROPE,University of Bremen,561,10.2,17771
+10876,France,EUROPE,University of Burgundy,562,10.1,26800
+10877,France,EUROPE,UniversityÂ ofÂ ClermontÂ Auvergne,563,10.4,39000
+10878,Portugal,EUROPE,University of Coimbra,564,10.6,23280
+10879,Italy,EUROPE,University of Ferrara,565,10.4,27123
+10880,Switzerland,EUROPE,University of Fribourg,566,10.9,10887
+10881,Israel,ASIA,University of Haifa,567,10.0,17231
+10882,Germany,EUROPE,University of Halle-Wittenberg,568,10.1,19413
+10883,Iceland,EUROPE,University of Iceland,569,10.3,10670
+10884,United States,NORTH AMERICA,University of Idaho,570,10.2,13956
+10885,United Kingdom,EUROPE,University of Kent,571,10.0,18395
+10886,Germany,EUROPE,University of Konstanz,572,10.4,6678
+10887,Slovenia,EUROPE,University of Ljubljana,573,10.0,40607
+10888,Spain,EUROPE,University of Navarra,574,10.1,11803
+10889,United States,NORTH AMERICA,University of Nevada - Reno,575,10.9,24246
+10890,United States,NORTH AMERICA,University of Nevada - Las Vegas,576,10.1,35512
+10891,United States,NORTH AMERICA,University of New Hampshire,577,9.8,16673
+10892,United States,NORTH AMERICA,University of Oklahoma - Norman,578,10.5,32189
+10893,Italy,EUROPE,University of Palermo,579,10.5,29437
+10894,Italy,EUROPE,University of Parma,580,11.0,28174
+10895,United Kingdom,EUROPE,University of Plymouth,581,10.3,16185
+10896,United Kingdom,EUROPE,University of Portsmouth,582,10.4,24362
+10897,Germany,EUROPE,University of Regensburg,583,9.9,20539
+10898,France,EUROPE,University of Rennes 1,584,10.8,28351
+10899,Italy,EUROPE,University of Roma - Tor Vergata,585,10.4,34965
+10900,Germany,EUROPE,University of Rostock,586,10.7,13647
+10901,Italy,EUROPE,University of Salerno,587,9.9,36156
+10902,Canada,NORTH AMERICA,University of Sherbrooke,588,10.6,15667
+10903,Italy,EUROPE,University of Siena,589,10.0,13084
+10904,Finland,EUROPE,Tampere University,590,9.9,15855
+10905,Norway,EUROPE,University of Tromso,591,10.4,16475
+10906,South Korea,ASIA,University of Ulsan,592,10.2,12730
+10907,Italy,EUROPE,University of Verona,593,10.4,19873
+10908,Spain,EUROPE,University of Vigo,594,10.8,18029
+10909,Spain,EUROPE,University of Zaragoza,595,10.1,26514
+10910,Spain,EUROPE,University Rovira i Virgili,596,10.0,13978
+10911,Japan,ASIA,Waseda University,597,10.5,48839
+10912,China,ASIA,Wenzhou Medical University,598,9.9,16455
+10913,China,ASIA,Yunnan University,599,9.8,27405
+10914,China,ASIA,Zhejiang University of Technology,600,11.0,27426
+10915,Egypt,AFRICA,Alexandria University,601,8.8,182129
+10916,Iran,ASIA,Amirkabir University of Technology,602,9.7,11580
+10917,China,ASIA,Anhui University,603,8.8,29849
+10918,China,ASIA,Army Medical University,604,8.8,1216
+10919,United Kingdom,EUROPE,Bangor University,605,9.5,8021
+10920,United States,NORTH AMERICA,Baylor University,606,9.8,18594
+10921,China,ASIA,Beijing University of Posts and Telecommunications,607,9.1,26525
+10922,Germany,EUROPE,Bielefeld University,608,9.6,25896
+10923,Italy,EUROPE,Bocconi University,609,9.5,14148
+10924,Japan,ASIA,Chiba University,610,9.7,13710
+10925,China,ASIA,China University of Petroleum (Beijing),611,9.4,15966
+10926,United States,NORTH AMERICA,Clemson University,612,9.5,28310
+10927,Denmark,EUROPE,Copenhagen Business School,613,9.0,16317
+10928,China,ASIA,Donghua University,614,9.6,22398
+10929,Singapore,ASIA,Duke-NUS Medical School,615,9.4,45
+10930,Vietnam,ASIA,Duy Tan University,616,9.2,22196
+10931,Hungary,EUROPE,Eotvos Lorand University,617,9.6,26105
+10932,Brazil,SOUTH AMERICA,Federal University of Parana,618,9.2,34528
+10933,Brazil,SOUTH AMERICA,Federal University of Santa Catarina,619,8.8,38719
+10934,Brazil,SOUTH AMERICA,Federal University of Sao Paulo,620,8.9,14572
+10935,United States,NORTH AMERICA,Florida Atlantic University,621,8.9,36970
+10936,China,ASIA,Guangzhou Medical University,622,9.5,11229
+10937,China,ASIA,Hangzhou Dianzi University,623,9.0,20285
+10938,China,ASIA,Hunan Normal University,624,9.6,32418
+10939,South Korea,ASIA,Jeonbuk National University,625,9.7,21757
+10940,Japan,ASIA,Juntendo University,626,9.2,4653
+10941,South Korea,ASIA,Kangwon National University,627,8.9,23127
+10942,United Kingdom,EUROPE,Keele University,628,9.5,9195
+10943,Japan,ASIA,Kitasato University,629,9.7,8503
+10944,South Korea,ASIA,Konkuk University,630,9.1,12225
+10945,Germany,EUROPE,Leibniz University Hannover,631,8.8,24233
+10946,United Kingdom,EUROPE,Liverpool John Moores University,632,9.5,20775
+10947,China-Macau,ASIA,Macau University of Science and Technology,633,9.0,12036
+10948,Czech Republic,EUROPE,Masaryk University,634,9.7,27605
+10949,Austria,EUROPE,Medical University of Graz,635,9.7,3352
+10950,Canada,NORTH AMERICA,Memorial University of Newfoundland,636,9.5,15787
+10951,United States,NORTH AMERICA,Missouri University of Science and Technology,637,8.9,9265
+10952,China,ASIA,Nanjing Forestry University,638,9.1,22849
+10953,China,ASIA,Nanjing University of Posts and Telecommunications,639,9.8,27182
+10954,Russia,EUROPE,HSE University,640,9.2,32102
+10955,China-Taiwan,ASIA,National Sun Yat-Sen University,641,9.2,7991
+10956,China,ASIA,National University of Defense Technology,642,8.9,14000
+10957,Portugal,EUROPE,New University of Lisbon,643,9.0,19694
+10958,China,ASIA,Northwest University,644,9.1,23020
+10959,South Africa,AFRICA,North-West University,645,9.0,36749
+10960,United Kingdom,EUROPE,Nottingham Trent University,646,9.6,28620
+10961,Russia,EUROPE,Novosibirsk State University,647,9.7,7275
+10962,United States,NORTH AMERICA,Oklahoma State University,648,9.8,21626
+10963,Sweden,EUROPE,Orebro University,649,9.1,9735
+10964,Qatar,ASIA,Qatar University,650,9.3,15585
+10965,China,ASIA,Renmin University of China,651,9.2,26809
+10966,Germany,EUROPE,Saarland University,652,9.2,16241
+10967,China,ASIA,Shandong Normal University,653,9.2,37008
+10968,China,ASIA,Shanxi University,654,9.5,31010
+10969,United States,NORTH AMERICA,Southern Methodist University,655,9.2,12825
+10970,United Kingdom,EUROPE,St George's University of London,656,9.5,3545
+10971,United States,NORTH AMERICA,State University of New York Health Science Center at Brooklyn,657,9.0,2092
+10972,United States,NORTH AMERICA,Syracuse University,658,9.0,18983
+10973,United States,NORTH AMERICA,The University of Texas at Arlington,659,9.4,60035
+10974,Japan,ASIA,The University of Tokushima,660,9.7,7482
+10975,China,ASIA,Tianjin Medical University,661,9.3,9937
+10976,Netherlands,EUROPE,Tilburg University,662,9.9,8033
+10977,Japan,ASIA,Tokyo Medical and Dental University,663,9.3,3011
+10978,Vietnam,ASIA,Ton Duc Thang University,664,9.7,27878
+10979,United States,NORTH AMERICA,Tulane University,665,9.2,12020
+10980,Spain,EUROPE,Universitat Jaume I,666,9.5,13825
+10981,Spain,EUROPE,University of Alicante,667,9.8,26088
+10982,United States,NORTH AMERICA,University of Arkansas at Fayetteville,668,9.1,25318
+10983,United States,NORTH AMERICA,University of Arkansas for Medical Sciences,669,9.5,2996
+10984,Portugal,EUROPE,University of Aveiro,670,9.5,13494
+10985,India,ASIA,University of Calcutta,671,9.2,14972
+10986,Greece,EUROPE,University of Crete,672,9.0,14119
+10987,Cyprus,EUROPE,University of Cyprus,673,9.6,6635
+10988,Finland,EUROPE,University of Eastern Finland,674,9.1,11664
+10989,Spain,EUROPE,University of Extremadura,675,9.2,20147
+10990,Germany,EUROPE,University of Giessen,676,9.8,28575
+10991,South Africa,AFRICA,University of Johannesburg,677,9.7,26445
+10992,South Africa,AFRICA,University of KwaZulu-Natal,678,9.7,32068
+10993,Luxembourg,EUROPE,University of Luxembourg,679,8.8,4654
+10994,Germany,EUROPE,University of Magdeburg,680,8.8,13563
+10995,United States,NORTH AMERICA,"University of Maryland, Baltimore County",681,9.0,15726
+10996,Italy,EUROPE,University of Modena and Reggio Emilia,682,8.9,17432
+10997,France,EUROPE,University of Nantes,683,9.4,37078
+10998,Australia,OCEANIA,University of New England,684,8.8,22223
+10999,Canada,NORTH AMERICA,University of Quebec Montreal,685,9.0,43140
+11000,China,ASIA,University of Shanghai for Science and Technology,686,9.6,25346
+11001,South Africa,AFRICA,University of South Africa,687,8.8,193874
+11002,Australia,OCEANIA,University of Southern Queensland,688,9.3,20934
+11003,Hungary,EUROPE,University of Szeged,689,8.9,19700
+11004,United States,NORTH AMERICA,University of Texas at El Paso,690,9.1,29881
+11005,Spain,EUROPE,University of the Balearic Islands,691,8.8,12267
+11006,Australia,OCEANIA,University of the Sunshine Coast,692,9.0,16028
+11007,Italy,EUROPE,University of Trieste,693,9.1,17220
+11008,Italy,EUROPE,University of Udine,694,8.9,11793
+11009,France,EUROPE,University of Versailles Saint-Quentin-en-Yvelines,695,9.4,10285
+11010,United States,NORTH AMERICA,University of Wisconsin - Milwaukee,696,8.9,21285
+11011,United States,NORTH AMERICA,University of Wyoming,697,9.3,13926
+11012,Croatia,EUROPE,University of Zagreb,698,9.5,56853
+11013,China,ASIA,Xi'an University of Technology,699,9.0,25461
+11014,South Korea,ASIA,Yeungnam University,700,9.8,20135
+11015,Ethiopia,AFRICA,Addis Ababa University,701,7.9,42497
+11016,Poland,EUROPE,AGH University of Science and Technology,702,7.9,28620
+11017,Egypt,AFRICA,Ain Shams University,703,7.9,179636
+11018,China,ASIA,Air Force Medical University,704,7.9,4000
+11019,Lebanon,ASIA,American University of Beirut,705,8.4,8401
+11020,China,ASIA,Anhui Medical University,706,8.6,16837
+11021,United Kingdom,EUROPE,Aston University,707,8.0,12880
+11022,New Zealand,OCEANIA,AUT University,708,8.4,18035
+11023,India,ASIA,Banaras Hindu University,709,8.2,23006
+11024,Italy,EUROPE,Brescia University,710,8.5,14206
+11025,Czech Republic,EUROPE,Brno University of Technology,711,8.0,18327
+11026,South Korea,ASIA,Catholic University of Korea,712,8.1,8968
+11027,China,ASIA,Changsha University of Science and Technology,713,8.0,39000
+11028,China,ASIA,China University of Mining and Technology (Beijing),714,8.4,14694
+11029,China,ASIA,Chongqing Medical University,715,8.0,24948
+11030,Thailand,ASIA,Chulalongkorn University,716,8.5,38531
+11031,South Korea,ASIA,Chung-Ang University,717,8.8,20018
+11032,South Korea,ASIA,Chungbuk National University,718,8.6,14636
+11033,South Korea,ASIA,Chungnam National University,719,8.5,21908
+11034,United States,NORTH AMERICA,Colorado School of Mines,720,8.7,6370
+11035,China,ASIA,Dalian Maritime University,721,7.8,24257
+11036,Turkey,ASIA,Dokuz Eylul University,722,7.8,62844
+11037,Brazil,SOUTH AMERICA,Federal University of Sao Carlos,723,8.0,19134
+11038,Brazil,SOUTH AMERICA,Fluminense Federal University,724,8.4,55502
+11039,China,ASIA,Fujian Agriculture and Forestry University,725,8.5,28002
+11040,China,ASIA,Fujian Medical University,726,8.2,16959
+11041,China,ASIA,Fujian Normal University,727,8.2,30933
+11042,Italy,EUROPE,G d'Annunzio University of Chieti-Pescara,728,7.8,27593
+11043,Austria,EUROPE,Graz University of Technology,729,8.7,9975
+11044,China,ASIA,Guangxi University,730,8.1,40455
+11045,Turkey,ASIA,Hacettepe University,731,8.5,47035
+11046,China,ASIA,Henan University,732,7.8,45225
+11047,India,ASIA,Indian Institute of Technology Delhi,733,8.5,7284
+11048,India,ASIA,Indian Institute of Technology Kharagpur,734,7.9,9167
+11049,India,ASIA,Indian Institute of Technology Madras,735,8.2,9241
+11050,South Korea,ASIA,INHA University,736,8.1,19196
+11051,India,ASIA,Jawaharlal Nehru University,737,7.9,7938
+11052,Japan,ASIA,Kanazawa University,738,8.5,2489
+11053,China-Taiwan,ASIA,Kaohsiung Medical University,739,8.4,6490
+11054,Japan,ASIA,Kindai University,740,8.1,34407
+11055,China,ASIA,Kunming University of Science and Technology,741,8.7,44533
+11056,New Zealand,OCEANIA,Lincoln University,742,7.9,2476
+11057,Egypt,AFRICA,Mansoura University,743,7.8,140126
+11058,New Zealand,OCEANIA,Massey University,744,8.8,15632
+11059,Poland,EUROPE,Medical University of Warsaw,745,8.2,10541
+11060,Russia,EUROPE,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),746,7.9,6489
+11061,United States,NORTH AMERICA,New Jersey Institute of Technology,747,8.4,13236
+11062,United States,NORTH AMERICA,New Mexico State University,748,7.8,25312
+11063,China,ASIA,Ningbo University,749,8.3,23611
+11064,China,ASIA,North China Electric Power University,750,7.9,33591
+11065,Norway,EUROPE,Norwegian University of Life Sciences,751,7.8,5790
+11066,United States,NORTH AMERICA,Old Dominion University,752,8.2,28046
+11067,Japan,ASIA,Osaka City University,753,8.0,8292
+11068,Czech Republic,EUROPE,PalackÃ½ University Olomouc,754,8.4,18463
+11069,Spain,EUROPE,Polytechnic University of Catalonia,755,8.3,24136
+11070,United States,NORTH AMERICA,Portland State University,756,8.5,32445
+11071,China,ASIA,Qufu Normal University,757,8.5,38174
+11072,France,EUROPE,School for Advanced Studies in the Social Sciences,758,8.3,3000
+11073,Hungary,EUROPE,Semmelweis University,759,8.7,10996
+11074,Iran,ASIA,Shahid Beheshti University of Medical Sciences,760,8.3,12713
+11075,China,ASIA,Shanghai University of Finance and Economics,761,8.7,17634
+11076,Japan,ASIA,Shinshu University,762,8.8,10551
+11077,Iran,ASIA,Shiraz University,763,7.9,14405
+11078,United States,NORTH AMERICA,Swarthmore College,764,8.4,1660
+11079,China-Taiwan,ASIA,Taipei Medical University,765,8.7,5993
+11080,Germany,EUROPE,Technical University of Braunschweig,766,8.6,20020
+11081,China,ASIA,The Second Military Medical University,767,8.3,10000
+11082,New Zealand,OCEANIA,The University of Waikato,768,8.3,8921
+11083,Brazil,SOUTH AMERICA,Universidade Federal de Pelotas,769,8.4,23198
+11084,Spain,EUROPE,Universitat de Lleida,770,8.4,10614
+11085,Malaysia,ASIA,Universiti Teknologi Malaysia,771,8.2,19087
+11086,Germany,EUROPE,University of Bayreuth,772,8.5,9735
+11087,Italy,EUROPE,University of Calabria,773,8.1,22044
+11088,Italy,EUROPE,UniversityÂ ofÂ CampaniaÂ LuigiÂ Vanvitelli,774,8.2,30371
+11089,Australia,OCEANIA,University of Canberra,775,7.9,15915
+11090,Spain,EUROPE,University of Castillaâ€“La Mancha,776,7.9,25302
+11091,India,ASIA,University of Delhi,777,8.7,24547
+11092,Spain,EUROPE,University of Jaen,778,8.3,15133
+11093,China,ASIA,University of Jinan,779,7.8,37413
+11094,Finland,EUROPE,University of Jyvaskyla,780,8.6,10435
+11095,Germany,EUROPE,University of Kassel,781,8.5,24607
+11096,Spain,EUROPE,University of La Laguna,782,8.5,19369
+11097,United States,NORTH AMERICA,University of Louisville,783,8.2,24770
+11098,Germany,EUROPE,University of Luebeck,784,8.2,3921
+11099,Spain,EUROPE,University of Malaga,785,8.5,36707
+11100,Italy,EUROPE,University of Messina,786,7.8,15135
+11101,United States,NORTH AMERICA,University of Montana - Missoula,787,8.4,7517
+11102,Spain,EUROPE,University of Murcia,788,8.7,29187
+11103,United States,NORTH AMERICA,University of Nebraska Medical Center,789,8.7,3285
+11104,Spain,EUROPE,University of Oviedo,790,8.7,20900
+11105,Italy,EUROPE,University of Salento,791,8.5,12040
+11106,Malaysia,ASIA,"University of Science, Malaysia",792,8.3,20908
+11107,United States,NORTH AMERICA,University of Toledo,793,8.6,22439
+11108,Canada,NORTH AMERICA,University of Windsor,794,7.8,13248
+11109,Malaysia,ASIA,University Putra Malaysia,795,8.4,20018
+11110,Russia,EUROPE,Ural Federal University,796,8.2,25499
+11111,Lithuania,EUROPE,Vilnius University,797,8.2,16216
+11112,United States,NORTH AMERICA,Yeshiva University,798,7.8,7112
+11113,Japan,ASIA,Yokohama City University,799,8.0,4976
+11114,China,ASIA,Zhejiang Normal University,800,8.2,25529
+11115,South Korea,ASIA,Ajou University,801,7.5,9906
+11116,India,ASIA,All India Institute of Medical Sciences,802,7.4,1927
+11117,Turkey,ASIA,Ankara University,803,7.5,69737
+11118,China-Taiwan,ASIA,Asia University,804,7.7,11779
+11119,Romania,EUROPE,BabeÈ™-Bolyai University,805,7.7,37168
+11120,China,ASIA,Beijing Forestry University,806,7.6,19240
+11121,United Kingdom,EUROPE,Bournemouth University,807,7.4,15283
+11122,Hungary,EUROPE,Budapest University of Technology and Economics,808,7.2,18219
+11123,China,ASIA,Chang'an University,809,7.7,34184
+11124,China,ASIA,Changzhou University,810,7.2,20113
+11125,China,ASIA,China Pharmaceutical University,811,7.5,15181
+11126,Slovakia,EUROPE,Comenius University in Bratislava,812,7.2,7802
+11127,United Kingdom,EUROPE,Cranfield University,813,7.8,4828
+11128,Czech Republic,EUROPE,Czech Technical University in Prague,814,7.7,19499
+11129,Czech Republic,EUROPE,Czech University of Life Sciences Prague,815,7.4,17065
+11130,South Korea,ASIA,Dongguk University,816,7.2,17578
+11131,Brazil,SOUTH AMERICA,Federal University of Ceara,817,7.6,34676
+11132,Brazil,SOUTH AMERICA,Federal University of GoiÃ¡s,818,7.3,34158
+11133,Brazil,SOUTH AMERICA,Federal University of Pernambuco,819,7.5,34072
+11134,Brazil,SOUTH AMERICA,Federal University of Rio Grande do Norte,820,7.3,42573
+11135,China,ASIA,Foshan University,821,7.3,19323
+11136,South Korea,ASIA,Gachon University,822,7.5,19007
+11137,Poland,EUROPE,Gdansk University of Technology,823,7.4,7152
+11138,China,ASIA,Guizhou University,824,7.6,41962
+11139,South Korea,ASIA,Gwangju Institute of Science and Technology,825,7.2,2098
+11140,South Korea,ASIA,Gyeongsang National University,826,7.2,15298
+11141,South Korea,ASIA,Hallym University,827,7.5,8108
+11142,China,ASIA,Harbin Medical University,828,7.2,15734
+11143,China,ASIA,Hebei University of Technology,829,7.4,30382
+11144,China,ASIA,Henan Normal University,830,7.5,37978
+11145,United Kingdom,EUROPE,Heriot-Watt University,831,7.6,9740
+11146,China-Hong Kong,ASIA,Hong Kong Baptist University,832,7.6,7495
+11147,United States,NORTH AMERICA,Illinois Institute of Technology,833,7.3,5437
+11148,France,EUROPE,INSA Toulouse,834,7.6,2740
+11149,Italy,EUROPE,International School for Advanced Studies,835,7.3,266
+11150,Iran,ASIA,Iran University of Science & Technology,836,7.3,13273
+11151,Austria,EUROPE,Johannes Kepler University Linz,837,7.2,6122
+11152,Saudi Arabia,ASIA,King Khalid University,838,7.2,38669
+11153,United States,NORTH AMERICA,Lehigh University,839,7.4,6518
+11154,Sweden,EUROPE,Linnaeus University,840,7.6,35000
+11155,United Kingdom,EUROPE,Manchester Metropolitan University,841,7.2,29835
+11156,United States,NORTH AMERICA,Michigan Technological University,842,7.5,7657
+11157,France,EUROPE,Montpellier Business School,843,7.7,3700
+11158,Japan,ASIA,Nagasaki University,844,7.7,9084
+11159,China,ASIA,Nantong University,845,7.3,30684
+11160,China-Taiwan,ASIA,National Central University,846,7.6,11467
+11161,Colombia,SOUTH AMERICA,National University of Colombia,847,7.6,52908
+11162,Argentina,SOUTH AMERICA,National University of La Plata,848,7.3,90000
+11163,United Kingdom,EUROPE,Northumbria University,849,7.8,22275
+11164,Japan,ASIA,Okinawa Institute of Science and Technology Graduate University,850,7.4,192
+11165,Canada,NORTH AMERICA,Ontario Tech University,851,7.5,10022
+11166,Thailand,ASIA,Prince of Songkla University,852,7.3,39257
+11167,China,ASIA,Qingdao University of Science and Technology,853,7.2,32168
+11168,Ireland,EUROPE,Royal College of Surgeons - Ireland,854,7.2,3384
+11169,United Kingdom,EUROPE,"Royal Holloway, University of London",855,7.7,10315
+11170,Canada,NORTH AMERICA,Ryerson University,856,7.2,33694
+11171,Japan,ASIA,Saitama University,857,7.3,8579
+11172,Russia,EUROPE,Sechenov University,858,7.4,16365
+11173,China,ASIA,Shantou University,859,7.6,12461
+11174,China,ASIA,Sichuan Agricultural University,860,7.3,43994
+11175,Australia,OCEANIA,Southern Cross University,861,7.2,16777
+11176,China,ASIA,Southwestern University of Finance and Economics,862,7.7,23330
+11177,United States,NORTH AMERICA,SUNY College of Environmental Science and Forestry,863,7.2,2127
+11178,United States,NORTH AMERICA,SUNY Upstate Medical University,864,7.1,1661
+11179,Saudi Arabia,ASIA,Taif University,865,7.3,36428
+11180,China,ASIA,"The Chinese University of Hong Kong, Shenzhen",866,7.6,3400
+11181,China-Hong Kong,ASIA,The Education University of Hong Kong,867,7.7,8521
+11182,United Kingdom,EUROPE,The Open University,868,7.6,63450
+11183,United Kingdom,EUROPE,The Royal Veterinary College,869,7.5,2270
+11184,Italy,EUROPE,Tuscia University,870,7.2,7748
+11185,United States,NORTH AMERICA,Uniformed Services University of the Health Sciences,871,7.7,681
+11186,Chile,SOUTH AMERICA,Universidad AndrÃ©s Bello,872,7.2,44327
+11187,Spain,EUROPE,Universidad de Las Palmas de Gran Canaria,873,7.4,17485
+11188,Spain,EUROPE,Universidad Pablo de Olavide,874,7.3,12239
+11189,France,EUROPE,UniversitÃ© Gustave Eiffel,875,7.7,17000
+11190,Pakistan,ASIA,University of Agriculture Faisalabad,876,7.7,29910
+11191,Spain,EUROPE,University of AlcalÃ¡,877,7.3,17446
+11192,Italy,EUROPE,University of Cagliari,878,7.5,26028
+11193,Chile,SOUTH AMERICA,University of Concepcion,879,7.3,28256
+11194,Spain,EUROPE,University of Cordoba,880,7.6,19063
+11195,Pakistan,ASIA,University of Engineering and Technology (UET),881,7.4,13163
+11196,Spain,EUROPE,University of Girona,882,7.5,15218
+11197,United Kingdom,EUROPE,University of Greenwich,883,7.4,19060
+11198,United Kingdom,EUROPE,University of Hull,884,7.3,14000
+11199,Italy,EUROPE,University of L'Aquila,885,7.2,18867
+11200,United States,NORTH AMERICA,University of North Carolina at Greensboro,886,7.3,22610
+11201,France,EUROPE,University of Savoy,887,7.3,15401
+11202,Switzerland,EUROPE,University of St. Gallen,888,8.0,8846
+11203,United Kingdom,EUROPE,University of Stirling,889,7.6,9620
+11204,Iran,ASIA,University of Tabriz,890,7.4,20983
+11205,Pakistan,ASIA,University of the Punjab,891,7.5,27907
+11206,Greece,EUROPE,University of Thessaly,892,7.3,17004
+11207,Italy,EUROPE,University of Urbino,893,7.8,14278
+11208,Austria,EUROPE,University of Veterinary Medicine Vienna,894,7.5,2800
+11209,India,ASIA,Vellore Institute of Technology,895,7.4,12690
+11210,Poland,EUROPE,Warsaw University of Life Sciences,896,7.7,16339
+11211,China,ASIA,Westlake University,897,7.3,1220
+11212,Poland,EUROPE,Wroclaw Medical University,898,7.2,5915
+11213,China,ASIA,Yanshan University,899,7.4,33708
+11214,Egypt,AFRICA,Zagazig University,900,7.2,156419
+11215,United Kingdom,EUROPE,Aberystwyth University,901,6.8,6805
+11216,Poland,EUROPE,Adam Mickiewicz University,902,6.9,36207
+11217,Egypt,AFRICA,Al-Azhar University,903,6.8,299054
+11218,India,ASIA,Aligarh Muslim University,904,7.1,18783
+11219,United States,NORTH AMERICA,Amherst College,905,6.9,1946
+11220,China,ASIA,Anhui University of Technology,906,7.0,20000
+11221,India,ASIA,Anna University,907,6.9,14428
+11222,Australia,OCEANIA,Bond University,908,6.9,5308
+11223,Spain,EUROPE,Carlos III University of Madrid,909,6.8,20958
+11224,Australia,OCEANIA,Charles Darwin University,910,6.8,6899
+11225,Thailand,ASIA,Chiang Mai University,911,7.1,35013
+11226,China,ASIA,China Three Gorges University,912,6.6,28716
+11227,United States,NORTH AMERICA,CUNY Hunter College,913,7.1,28082
+11228,China,ASIA,Dalian Medical University,914,6.6,12773
+11229,Turkey,ASIA,Ege University,915,6.7,46056
+11230,Japan,ASIA,Ehime University,916,7.1,9333
+11231,Brazil,SOUTH AMERICA,Federal University of Bahia,917,6.8,40848
+11232,Brazil,SOUTH AMERICA,Federal University of Santa Maria,918,6.6,27285
+11233,Brazil,SOUTH AMERICA,Federal University of ViÃ§osa,919,7.1,16780
+11234,Iran,ASIA,Ferdowsi University of Mashhad,920,6.8,23992
+11235,Turkey,ASIA,Gazi University,921,6.7,37388
+11236,Japan,ASIA,Gifu University,922,6.6,7264
+11237,United States,NORTH AMERICA,Haverford College,923,6.8,1368
+11238,China,ASIA,Hebei Medical University,924,6.6,14238
+11239,India,ASIA,Indian Institute of Technology Roorkee,925,6.7,7561
+11240,India,ASIA,Indian Institutes of Science Education and Research (IISERs),926,7.1,2300
+11241,Iran,ASIA,Iran University of Medical Sciences,927,6.8,9000
+11242,Turkey,ASIA,Istanbul Technical University,928,6.9,36581
+11243,Spain,EUROPE,King Juan Carlos University,929,6.9,41972
+11244,Japan,ASIA,Kumamoto University,930,7.0,9730
+11245,Canada,NORTH AMERICA,Lakehead University,931,6.9,8050
+11246,Germany,EUROPE,Leuphana University Luneburg,932,6.7,10722
+11247,China,ASIA,Liaoning University of Technology,933,6.6,13474
+11248,United Kingdom,EUROPE,Liverpool School of Tropical Medicine,934,7.0,600
+11249,United States,NORTH AMERICA,Loyola University Chicago,935,7.0,19332
+11250,Japan,ASIA,Meijo University,936,7.1,15412
+11251,Turkey,ASIA,Middle East Technical University,937,6.7,26188
+11252,United States,NORTH AMERICA,Montana State University - Bozeman,938,7.1,13543
+11253,China,ASIA,Nanjing University of Chinese Medicine,939,7.0,15061
+11254,Japan,ASIA,Nara Institute of Science and Technology,940,6.8,1074
+11255,China-Taiwan,ASIA,National Chung Hsing University,941,7.0,14100
+11256,China-Taiwan,ASIA,National Taiwan Normal University,942,6.6,15219
+11257,China-Taiwan,ASIA,National Taiwan University of Science and Technology,943,7.0,9038
+11258,Argentina,SOUTH AMERICA,National University of Cordoba,944,6.8,59450
+11259,Norway,EUROPE,NHH - Norwegian School of Economics,945,7.2,3500
+11260,Japan,ASIA,Niigata University,946,6.8,12158
+11261,China,ASIA,Northeast Agricultural University (Chinaï¼‰,947,6.6,28420
+11262,China,ASIA,Northeast Normal University,948,7.1,29236
+11263,China,ASIA,Qilu University of Technology,949,6.9,30000
+11264,Pakistan,ASIA,Quaid-i-Azam University,950,7.1,14694
+11265,Japan,ASIA,Ritsumeikan University,951,6.7,34413
+11266,United States,NORTH AMERICA,Rutgers University - Newark,952,6.8,15897
+11267,China,ASIA,Shandong Agricultural University,953,6.9,44000
+11268,China,ASIA,Shandong First Medical University,954,6.8,33000
+11269,China,ASIA,Shanghai Normal University,955,6.8,29918
+11270,Singapore,ASIA,Singapore University of Technology & Design,956,6.6,1500
+11271,United States,NORTH AMERICA,South Dakota State University,957,7.1,14785
+11272,China,ASIA,Southwest Petroleum University,958,6.7,36940
+11273,Oman,ASIA,Sultan Qaboos University,959,7.1,7436
+11274,Germany,EUROPE,Technical University of Dortmund,960,7.1,34267
+11275,Czech Republic,EUROPE,Technical University of Ostrava,961,6.6,23558
+11276,Japan,ASIA,The Graduate University for Advanced Studies,962,7.0,550
+11277,Japan,ASIA,Tokyo Medical University,963,6.6,1248
+11278,Japan,ASIA,Tokyo University of Agriculture and Technology,964,6.8,5693
+11279,Russia,EUROPE,Tomsk State University,965,7.2,7655
+11280,Brazil,SOUTH AMERICA,Universidade Federal de Mato Grosso do Sul,966,7.0,25018
+11281,Tunisia,AFRICA,Universite de Tunis El Manar,967,6.6,24507
+11282,Spain,EUROPE,University of Almeria,968,6.7,12612
+11283,United States,NORTH AMERICA,University of Arkansas at Little Rock,969,7.1,12993
+11284,Spain,EUROPE,University of Cantabria,970,7.0,10361
+11285,United States,NORTH AMERICA,University of Denver,971,6.6,14429
+11286,United Kingdom,EUROPE,University of Hertfordshire,972,6.8,19475
+11287,Germany,EUROPE,University of Hohenheim,973,6.9,9599
+11288,Nigeria,AFRICA,University of Ibadan,974,7.1,-1
+11289,Italy,EUROPE,University of Insubria,975,6.9,13225
+11290,Austria,EUROPE,University of Klagenfurt,976,6.6,3639
+11291,Ireland,EUROPE,University of Limerick,977,6.9,14221
+11292,United Kingdom,EUROPE,University of Lincoln,978,7.0,13985
+11293,Colombia,SOUTH AMERICA,University of Los Andes (Colombia),979,7.0,15300
+11294,United States,NORTH AMERICA,University of Massachusetts Boston,980,7.0,19356
+11295,United States,NORTH AMERICA,University of Massachusetts Lowell,981,6.8,22084
+11296,Serbia,EUROPE,University of Novi Sad,982,6.9,43871
+11297,Germany,EUROPE,University of Oldenburg,983,7.1,16244
+11298,Germany,EUROPE,University of Osnabrueck,984,6.8,13995
+11299,France,EUROPE,University of Poitiers,985,6.9,26929
+11300,United States,NORTH AMERICA,University of Rhode Island,986,7.2,16011
+11301,Austria,EUROPE,University of Salzburg,987,7.1,10050
+11302,United States,NORTH AMERICA,University of Tennessee Health Science Center,988,6.9,3412
+11303,South Africa,AFRICA,University of The Free State,989,6.7,40000
+11304,France,EUROPE,University of Tours,990,6.7,27285
+11305,United Kingdom,EUROPE,University of Ulster,991,6.7,26969
+11306,Spain,EUROPE,University of Valladolid,992,6.8,22418
+11307,Germany,EUROPE,University of Wuppertal,993,7.0,23343
+11308,France,EUROPE,University Paris Est Creteil,994,6.8,32258
+11309,Lithuania,EUROPE,Vilnius Gediminas Technical University,995,6.6,6750
+11310,Poland,EUROPE,Warsaw University of Technology,996,7.1,24818
+11311,United States,NORTH AMERICA,Williams College,997,6.8,2291
+11312,Poland,EUROPE,Wroclaw University of Science and Technology,998,7.0,22967
+11313,China,ASIA,Wuhan University of Science and Technology,999,6.6,32323
+11314,China,ASIA,Yantai University,1000,6.9,29000

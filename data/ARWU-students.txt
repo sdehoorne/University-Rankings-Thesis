@@ -1,0 +1,1046 @@
+Harvard University::41987
+Stanford University::16163
+Massachusetts Institute of Technology (MIT)::11084
+University of Cambridge::19875
+University of California, Berkeley::39874
+Princeton University::8105
+University of Oxford::20785
+Columbia University::33301
+California Institute of Technology::2240
+University of Chicago::16020
+Yale University::14389
+Cornell University::23872
+University of California, Los Angeles::43856
+Johns Hopkins University::33543
+University of Pennsylvania::21312
+Paris-Saclay University::30101
+University of Washington::49324
+University College London::34785
+University of California, San Francisco::3185
+ETH Zurich::22461
+University of California, San Diego::39811
+University of Toronto::81015
+Imperial College London::20135
+The University of Tokyo::28409
+New York University::58091
+Tsinghua University::56939
+Washington University in St. Louis::14108
+University of Michigan-Ann Arbor::43727
+University of North Carolina at Chapel Hill::27604
+Northwestern University::25614
+Duke University::18159
+The University of Melbourne::67373
+University of Wisconsin - Madison::41265
+Peking University::52326
+The University of Edinburgh::30445
+Zhejiang University::65605
+The University of Texas at Austin::55128
+The University of Manchester::37090
+University of Copenhagen::37493
+PSL University::16218
+Karolinska Institute::8393
+Kyoto University::22596
+Sorbonne University::46310
+Rockefeller University::248
+University of British Columbia::60532
+University of Minnesota, Twin Cities::44997
+The University of Queensland::41463
+King's College London::28455
+University of Illinois at Urbana-Champaign::47321
+University of Maryland, College Park::34656
+University of Colorado at Boulder::35975
+The University of Texas Southwestern Medical Center at Dallas::2514
+University of Southern California::40417
+Shanghai Jiao Tong University::42010
+Utrecht University::34958
+Technical University of Munich::42705
+University of California, Santa Barbara::25701
+University of Munich::36436
+University of Zurich::29715
+University of Sydney::46452
+University of California, Irvine::35537
+University of Geneva::16935
+University of Science and Technology of China::36651
+The University of New South Wales::43336
+Vanderbilt University::12655
+University of Groningen::33402
+Fudan University::38340
+University of Oslo::27505
+Aarhus University::30013
+Heidelberg University::19320
+National University of Singapore::30869
+The University of Texas M. D. Anderson Cancer Center::551
+McGill University::31294
+Ghent University::39447
+Monash University::68316
+University of Bonn::38043
+The Hebrew University of Jerusalem::16137
+University of Paris::61390
+Sun Yat-sen University::54996
+The Australian National University::17358
+University of Bristol::24270
+University of Pittsburgh::31667
+Purdue University - West Lafayette::47412
+Technion-Israel Institute of Technology::14703
+University of Basel::11518
+Weizmann Institute of Science::/
+Erasmus University Rotterdam::31149
+Nanyang Technological University::25088
+Uppsala University::26045
+McMaster University::32291
+Stockholm University::27185
+University of Alberta::31919
+University of Helsinki::31572
+University of Florida::49038
+KU Leuven::47445
+Huazhong University of Science and Technology::56782
+The University of Hong Kong::18260
+Seoul National University::27784
+Brown University::10760
+The University of Western Australia::18287
+Aix Marseille University::72945
+Arizona State University::48988
+Boston University::26147
+Carnegie Mellon University::14223
+Case Western Reserve University::10666
+Central South University::63655
+Emory University::12828
+Icahn School of Medicine at Mount Sinai::1242
+Indiana University Bloomington::40181
+King Abdulaziz University::32853
+King Saud University::37616
+Leiden University::33279
+London School of Economics and Political Science::11310
+Mayo Clinic Alix School of Medicine::1249
+Moscow State University::29235
+Nagoya University::15224
+Nanjing University::36625
+Norwegian University of Science and Technology - NTNU::41971
+Radboud University Nijmegen::25356
+Rice University::6884
+Rutgers, The State University of New Jersey - New Brunswick::44805
+Sapienza University of Rome::77390
+Sichuan University::55419
+Swiss Federal Institute of Technology Lausanne::10492
+The Chinese University of Hong Kong::18400
+The Ohio State University - Columbus::61492
+Pennsylvania State University - University Park::44928
+The University of Adelaide::21515
+The University of Glasgow::27440
+The University of Sheffield::25490
+Université Grenoble Alpes::50987
+Université libre de Bruxelles (ULB)::27194
+University of Amsterdam::35709
+University of Arizona::48653
+University of Bern::11090
+University of Birmingham::32135
+University of California, Davis::37294
+University of Exeter::23552
+University of Freiburg::21475
+University of Gothenburg::19677
+University of Lausanne::14094
+University of Liverpool::26575
+University of Montreal::36794
+University of Nottingham::33115
+University of Sao Paulo::67005
+University of Strasbourg::46898
+University of Utah::31063
+University of Warwick::23430
+Wuhan University::59329
+Xi'an Jiaotong University::46730
+Baylor College of Medicine::1648
+Beijing Institute of Technology::28771
+Cardiff University::27510
+City University of Hong Kong::9233
+Delft University of Technology::18743
+Georgia Institute of Technology::38951
+Goethe University Frankfurt::47141
+Harbin Institute of Technology::36258
+Jilin University::71755
+London School of Hygiene & Tropical Medicine::4700
+Lund University::27266
+Michigan State University::44745
+Northwestern Polytechnical University::28990
+Osaka University::22485
+Shandong University::66652
+Soochow University (China)::42264
+South China University of Technology::43758
+Southeast University::36710
+Southern University of Science and Technology::5408
+Technical University of Denmark::9265
+Tel Aviv University::25547
+Texas A&M University::73267
+The Hong Kong Polytechnic University::19869
+The University of Calgary::28560
+Tianjin University::41091
+Tohoku University::17411
+Tokyo Institute of Technology::9752
+Tongji University::41752
+Trinity College Dublin::16564
+Tufts University::12781
+University of Barcelona::57214
+University of California, Santa Cruz::19020
+University of Cologne::36965
+University of Electronic Science and Technology of China::32763
+University of Goettingen::30773
+University of Leeds::32024
+University of Massachusetts Amherst::29201
+University of Milan::29555
+University of Montpellier::37708
+University of Padua::45169
+University of Pisa::33726
+University of Rochester::10364
+University of Southampton::20570
+University of Sussex::17995
+University of Tuebingen::27901
+University of Vienna::33547
+University of Waterloo::38940
+Vrije Universiteit Amsterdam::30822
+Wageningen University & Research::13914
+Xiamen University::38803
+Autonomous University of Barcelona::32902
+Beihang University::31774
+Beijing Normal University::24880
+Catholic University of Louvain::30957
+China Agricultural University::22167
+China Medical University (Taichung)::7199
+Chongqing University::43225
+Claude Bernard University Lyon 1::29529
+Colorado State University::37356
+Complutense University of Madrid::59788
+Curtin University::30000
+Dalian University of Technology::42146
+Deakin University::37919
+East China Normal University::35817
+Florida State University::46825
+George Mason University::31896
+Griffith University::35119
+Hanyang University::20087
+Hokkaido University::18483
+Hunan University::36551
+Jiangsu University::32899
+Karlsruhe Institute of Technology (KIT)::27255
+King Abdullah University of Science and Technology::1432
+Korea Advanced Institute of Science and Technology::9481
+Korea University::22965
+KTH Royal Institute of Technology::13329
+La Trobe University::25371
+Maastricht University::16857
+Macquarie University::43403
+Medical University of Vienna::7142
+Nanjing Medical University::15840
+Nankai University::31718
+National Autonomous University of Mexico::197407
+National Taiwan University::27254
+Newcastle University::25950
+North Carolina State University - Raleigh::30082
+Northeastern University (Boston)::28374
+Oregon Health and Science University::3301
+Oregon State University::38110
+Paul Sabatier University (Toulouse 3)::/
+Polytechnic University of Milan::35184
+Queen Mary University of London::19595
+Queen's University::27045
+Queensland University of Technology::35257
+RWTH Aachen University::44699
+Shanghai University::37714
+Shenzhen University::35145
+Sungkyunkwan University::26953
+Swinburne University of Technology::41833
+The George Washington University::21725
+The University of Auckland::33092
+TU Dresden::31081
+Ulsan National Institute of Science and Technology::4127
+University of Aberdeen::12910
+University of Antwerp::15862
+University of Bologna::65819
+University of Bordeaux::54965
+University of Buenos Aires::/
+University of California, Riverside::25816
+University of Cape Town::21812
+University of Colorado at Denver::32857
+University of Delaware::21451
+University of East Anglia::16245
+University of Erlangen-Nuremberg::38111
+University of Granada::52640
+University of Hamburg::31517
+University of Houston::42080
+University of Iowa::29052
+University of Kansas::24012
+University of Kiel::26412
+University of Leipzig::31088
+University of Lisbon::49847
+University of Lorraine::64565
+University of Mainz::31919
+University of Manitoba::29311
+University of Massachusetts Medical School - Worcester::1227
+University of Miami::17008
+University of Missouri - Columbia::26643
+University of Muenster::32791
+University of Naples Federico II::49604
+University of Nebraska - Lincoln::28686
+University of Ottawa::36670
+University of Porto::30379
+University of Science and Technology Beijing::27377
+University of South Florida::39906
+University of Southern Denmark::22983
+University of Tasmania::18157
+University of Technology Sydney::32868
+University of Tennessee - Knoxville::31477
+University of Tsukuba::16994
+University of Turin::57586
+University of Valencia::49127
+University of Virginia::28593
+University of Wollongong::18995
+University of Wuerzburg::23383
+Virginia Commonwealth University::33462
+Virginia Polytechnic Institute and State University::36322
+Western University::28301
+Yonsei University::17744
+Zhengzhou University::70683
+Aalborg University::16951
+Aalto University::11913
+Albert Einstein College of Medicine::1052
+Autonomous University of Madrid::30354
+Bar-Ilan University::17280
+Beijing University of Chemical Technology::23338
+Brandeis University::5427
+Cairo University::221036
+Capital Medical University::11031
+Catholic University of the Sacred Heart::28725
+Charles University in Prague::49449
+China University of Geosciences (Wuhan)::29649
+Peking Union Medical College::6633
+Dalhousie University::16229
+Dartmouth College::6531
+Drexel University::19796
+Durham University::19900
+East China University of Science and Technology::26659
+Ecole Normale Superieure - Lyon::2004
+Eindhoven University of Technology::8917
+Fuzhou University::35717
+Heinrich Heine University Duesseldorf::36569
+Huazhong Agricultural University::29939
+Indian Institute of Science::4128
+Indiana University-Purdue University at Indianapolis::25779
+Institut Polytechnique de Paris::/
+James Cook University::19902
+Jinan University::45738
+Keio University::33224
+Kyushu University::18643
+Lancaster University::13145
+Lanzhou University::35629
+Laval University::29250
+Linkoping University::18544
+Nanchang University::48939
+Nanjing Agricultural University::28027
+NanJing Tech University::34694
+Nanjing University of Aeronautics and Astronautics::30804
+Nanjing University of Science and Technology::29139
+National and Kapodistrian University of Athens::57697
+National Cheng Kung University::20226
+Northeastern University (Shenyang)::38029
+Ocean University of China::27656
+Pohang University of Science and Technology::3215
+Pompeu Fabra University::20497
+Queen's University Belfast::20458
+RMIT University::33848
+Saint Petersburg State University::24336
+ShanghaiTech University::3246
+Simon Fraser University::26521
+Stony Brook University::26067
+Swedish University of Agricultural Sciences::3737
+Technical University of Berlin::22622
+The Hong Kong University of Science and Technology::9668
+The University of Dundee::14385
+The University of Georgia::37465
+The University of Newcastle, Australia::24356
+The University of Reading::15950
+The University of Texas at Dallas::31419
+The University of Texas Health Science Center at Houston::6553
+University at Buffalo, the State University of New York::28074
+University College Cork::17473
+University College Dublin::22541
+University of Alabama at Birmingham::25705
+University of Bergen::15202
+University of Bochum::43015
+University of Campinas::30088
+University of Central Florida::57496
+University of Cincinnati::43692
+University of Connecticut::30747
+University of Duisburg-Essen::42022
+University of Florence::34686
+University of Hawaii at Manoa::14695
+University of Illinois at Chicago::26381
+University of Innsbruck::12321
+University of Kentucky::30981
+University of Leicester::15045
+University of Liege::23596
+University of Lille::69287
+University of Malaya::15140
+University of Maryland, Baltimore::7573
+University of Milano-Bicocca::26509
+University of Notre Dame::12584
+University of Oregon::21844
+University of Otago::18509
+University of Saskatchewan::17194
+University of St Andrews::9600
+University of Stuttgart::26004
+University of Surrey::15085
+University of Tehran::53614
+University of the Basque Country::42869
+University of the Witwatersrand::27586
+University of Toulouse 1::/
+University of Ulm::10271
+University of Victoria::20936
+Vienna University of Technology::10464
+Vrije Universiteit Brussel (VUB)::13301
+Washington State University::27673
+Western Sydney University::47260
+Wuhan University of Technology::53884
+Beijing University of Technology::22164
+Ben-Gurion University of the Negev::20000
+Boston College::15981
+Brigham Young University::39233
+Chalmers University of Technology::9573
+Chang Gung University::7018
+China University of Geosciences (Beijing)::17361
+China University of Mining and Technology (Xuzhou)::33538
+China University of Petroleum (Huadong)::27631
+CUNY Graduate School and University Center::9887
+Federal University of Minas Gerais::40805
+Federal University of Rio de Janeiro::59107
+Federal University of Rio Grande do Sul::39159
+Flinders University::16608
+Florida International University::36179
+Georgetown University::22534
+Guangdong University of Technology::43461
+Hannover Medical School::/
+Hiroshima University::14612
+Humanitas University::/
+Istanbul University::59250
+Jagiellonian University::34221
+Jiangnan University::29146
+King Fahd University of Petroleum & Minerals::6882
+Kobe University::16226
+Kyung Hee University::20504
+Kyungpook National University::24155
+Louisiana State University - Baton Rouge::33758
+Masaryk University::27605
+Medical University of Innsbruck::2966
+Medical University of South Carolina::3402
+Murdoch University::13907
+Nanjing University of Information Science and Technology::28750
+National Tsing Hua University::13711
+National University of Malaysia::17180
+National Yang Ming Chiao Tung University::16425
+Northwest A&F University::32099
+Okayama University::13099
+Polytechnic University of Valencia::23607
+Qingdao University::42887
+Rensselaer Polytechnic Institute::7816
+Sejong University::12119
+Shandong University of Science and Technology::42404
+Southern Medical University::19910
+Stellenbosch University::24912
+Stockholm School of Economics::/
+Taif University::36428
+Tampere University::/
+Technical University Darmstadt::17814
+Tehran University of Medical Sciences::12511
+Temple University::35050
+Texas Tech University::41153
+The City College of New York::18675
+The University of Texas at San Antonio::27187
+The University of Texas Health Science Center at San Antonio::3881
+The University of Texas Medical Branch at Galveston::4054
+UNESP::39577
+University of Aveiro::13494
+University of Bari::29564
+University of Bath::16725
+University of Belgrade::/
+University of California, Merced::9215
+University of Canterbury::14336
+University of Chile::37337
+University of Essex::14255
+University of Guelph::22165
+University of Jena::18219
+University of Johannesburg::26445
+University of Kent::18395
+University of Ljubljana::40607
+University of Macau::10920
+University of Maine::13091
+University of Marburg::26487
+University of Minho::20001
+University of Natural Resources and Life Sciences, Vienna::12032
+University of North Texas::43963
+University of Oulu::9753
+University of Pavia::24606
+University of Perugia::24830
+University of Potsdam::20063
+University of Pretoria::36492
+University of Regensburg::/
+University of Santiago Compostela::24653
+University of Seville::59783
+University of South Carolina - Columbia::37510
+University of Strathclyde::19425
+University of Trento::12920
+University of Turku::12906
+University of Twente::7584
+University of Vermont::12104
+University of Warsaw::37161
+University of York::17100
+University of Zagreb::56853
+Utah State University::32963
+Victoria University of Wellington::16067
+Vita-Salute San Raffaele University::2610
+West Virginia University::25073
+Yangzhou University::41060
+York University::46824
+Zhejiang University of Technology::27426
+Alexandria University::182129
+Aristotle University of Thessaloniki::51456
+Asia University::11779
+Auburn University::27513
+Australian Catholic University::32752
+Baylor University::18594
+Beijing Jiaotong University::30023
+Brescia University::14206
+Carleton University::27570
+China University of Petroleum (Beijing)::15966
+Chonnam National University::22469
+Chulalongkorn University::38531
+COMSATS University Islamabad::33030
+Concordia University::29322
+Duke-NUS Medical School::45
+Georgia State University::40505
+Guangxi University::40455
+Guangzhou Medical University::11229
+Guangzhou University::34138
+Harbin Engineering University::27518
+Hefei University of Technology::42898
+Henan University::45225
+Hohai University::32268
+Iowa State University::31901
+Kansas State University::24546
+Leibniz University Hannover::24233
+Macau University of Science and Technology::12036
+Medical University of Graz::3352
+Mississippi State University::24251
+Moscow Institute of Physics and Technology::5716
+Nanjing Normal University::28339
+National University of Ireland, Galway::13911
+Northern Arizona University::29689
+Northwest University::23020
+New University Lisbon::19694
+Oklahoma State University::21626
+Pontifical Catholic University of Chile::31539
+Pusan National University::24331
+Qatar University::15585
+Renmin University of China::26809
+Rush University::3281
+Saarland University::/
+San Diego State University::37838
+Scuola Normale Superiore - Pisa::614
+South China Agricultural University::43633
+South China Normal University::36648
+Southwest Jiaotong University::42100
+Southwest University::53479
+Southwestern University of Finance and Economics::23330
+St George's University of London::3545
+Swansea University::17875
+Tarbiat Modares University::8562
+The University of New Mexico - Albuquerque::22982
+Tianjin Medical University::9937
+Umea University::17373
+Università Della Svizzera Italiana::3345
+University of Alaska - Fairbanks::12297
+University of Arkansas at Fayetteville::25318
+University of Bremen::17771
+University of Burgundy::/
+University of Catania::25392
+Universitya ofa Clermonta Auvergne::/
+University of Coimbra::23280
+University of Côte d'Azur::36706
+University of Cyprus::6635
+University of Fribourg::10887
+University of Genoa::21470
+University of Giessen::28575
+University of Haifa::17231
+University of Konstanz::6678
+University of KwaZulu-Natal::32068
+University of Modena and Reggio Emilia::17432
+University of Navarra::11803
+University of Nevada - Reno::24246
+University of New Hampshire::16673
+University of Oklahoma - Norman::32189
+University of Palermo::29437
+University of Parma::28174
+University of Plymouth::16185
+University of Roma - Tor Vergata::34965
+University of Rostock::/
+University of Salamanca::24109
+University of Science, Malaysia::20908
+University of Sherbrooke::15667
+University of South Australia::31547
+University of Southern Queensland::20934
+University of Tartu::8532
+University of Tromso::16475
+University of Ulsan::12730
+University of Verona::19873
+University of Vigo::18029
+University of Wyoming::13926
+University of Zaragoza::26514
+Wake Forest University::8122
+Wayne State University::31759
+Wenzhou Medical University::16455
+Xidian University::36438
+Yeungnam University::20135
+Yunnan University::27405
+Zhejiang Normal University::25529
+AGH University of Science and Technology::28620
+Amirkabir University of Technology::11580
+Anhui Medical University::16837
+Anhui University::29849
+Bangor University::8021
+Beijing University of Posts and Telecommunications::26525
+Binghamton University::19454
+Brunel University::15140
+Central China Normal University::29847
+Chang'an University::34184
+Chiba University::13710
+China Medical University (Shenyang)::16740
+Clemson University::28310
+Copenhagen Business School::16317
+Edith Cowan University::26402
+Eotvos Lorand University::26105
+Ewha Womans University::16865
+Federal University of Parana::34528
+Federal University of Sao Carlos::19134
+Federal University of Sao Paulo::14572
+Federal University of Viçosa::16780
+Guizhou University::41962
+Hacettepe University::47035
+Hangzhou Dianzi University::20285
+Hasselt University::5189
+Hong Kong Baptist University::7495
+HSE University::32102
+Hunan Normal University::32418
+INHA University::19196
+Juntendo University::4653
+Kent State University::33013
+King Khalid University::/
+Kitasato University::8503
+Kunming University of Science and Technology::44533
+Liverpool John Moores University::20775
+Mahidol University::28477
+Mansoura University::140126
+Marche Polytechnic University::10603
+Massey University::15632
+Nanjing Forestry University::22849
+Nanjing University of Posts and Telecommunications::27182
+National Polytechnic Institute::177983
+National Sun Yat-Sen University::7991
+National University of Defense Technology::/
+Naval Medical University::10000
+Ningbo University::23611
+Northumbria University::22275
+North-West University::36749
+Nottingham Trent University::28620
+Orebro University::9735
+Polytechnic University of Madrid::39213
+Polytechnic University of Turin::32950
+Royal Holloway, University of London::10315
+Saint Louis University::16248
+Sechenov University::/
+Semmelweis University::10996
+Shaanxi Normal University::44831
+Shandong Normal University::37008
+Shanxi University::31010
+Sharif University of Technology::9192
+State University of New York Health Science Center at Brooklyn::2092
+Taipei Medical University::5993
+The Chinese University of Hong Kong, Shenzhen::/
+The Open University::63450
+The University of Alabama - Tuscaloosa::42432
+The University of Texas at Arlington::60035
+Tilburg University::8033
+Tokyo Medical and Dental University::3011
+Tokyo University of Science::19106
+Ton Duc Thang University::/
+Tulane University::12020
+Universidad Pablo de Olavide::12239
+Universitat Jaume I::13825
+University at Albany (State University of New York)::16093
+University of Alicante::26088
+University of Crete::14119
+University of Delhi::24547
+University of Eastern Finland::11664
+University of Extremadura::20147
+University of Ferrara::27123
+University of Graz::12551
+University of Greenwich::19060
+University of Halle-Wittenberg::/
+University of Health Sciences Turkey::21322
+University of Iceland::10670
+University of Idaho::13956
+University of Maryland, Baltimore County::15726
+University of Nantes::37078
+University of Oldenburg::/
+University of Rennes 1::28351
+University of Salerno::36156
+University of Siena::13084
+University of the Sunshine Coast::16028
+University of Trieste::17220
+University of Versailles Saint-Quentin-en-Yvelines::10285
+University Rovira i Virgili::13978
+Vellore Institute of Technology::12690
+Waseda University::48839
+Westlake University::1220
+Xi'an University of Technology::25461
+Addis Ababa University::/
+Ain Shams University::179636
+American University of Beirut::8401
+Army Medical University::/
+AUT University::18035
+Bielefeld University::25896
+Catholic University of Korea::/
+Changsha University of Science and Technology::/
+Chiang Mai University::35013
+China University of Mining and Technology (Beijing)::14694
+Chongqing Medical University::24948
+Chung-Ang University::/
+Chungnam National University::21908
+Colorado School of Mines::6370
+Comenius University in Bratislava::7802
+Dalian Maritime University::24257
+Donghua University::22398
+Federal University of Santa Catarina::38719
+Fluminense Federal University::55502
+Fujian Agriculture and Forestry University::28002
+Fujian Medical University::16959
+Fujian Normal University::30933
+Harbin Medical University::15734
+Indian Institute of Technology Delhi::7284
+Indian Institute of Technology Madras::9241
+Indian Institute of Technology Roorkee::7561
+INSA Toulouse::/
+Jawaharlal Nehru University::7938
+Jeonbuk National University::21757
+Kanazawa University::2489
+Kaohsiung Medical University::6490
+Keele University::9195
+Kindai University::34407
+Konkuk University::12225
+Lincoln University::2476
+Liverpool School of Tropical Medicine::/
+Loughborough University::17270
+Medical College of Wisconsin::1579
+Memorial University of Newfoundland::15787
+New Jersey Institute of Technology::13236
+North China Electric Power University::33591
+Northeast Agricultural University (Chinaï¼‰::28420
+Novosibirsk State University::7275
+Ohio University::33920
+Old Dominion University::28046
+PalackÃ½ University Olomouc::18463
+Polytechnic University of Catalonia::24136
+Qufu Normal University::38174
+School for Advanced Studies in the Social Sciences::3000
+Shahid Beheshti University of Medical Sciences::12713
+Shandong Agricultural University::/
+Shanghai University of Finance and Economics::/
+Shinshu University::10551
+Skolkovo Institute of Science and Technology::/
+Southern Methodist University::12825
+Swarthmore College::1660
+Syracuse University::18983
+Taiyuan University of Technology::38330
+Technical University of Braunschweig::20020
+The University of Waikato::8921
+Thomas Jefferson University::8773
+Tomsk State University::7655
+Universitat de Lleida::10614
+Universiti Teknologi Malaysia::19087
+University of Agriculture Faisalabad::/
+University of Arkansas for Medical Sciences::2996
+University of Bayreuth::9735
+University of Brasalia::44074
+UniversityÂ ofÂ CampaniaÂ LuigiÂ Vanvitelli::30371
+University of Castillaâ€“La Mancha::25302
+University of Engineering and Technology (UET)::/
+University of Hull::14000
+University of Jaen::15133
+University of Jordan::/
+University of Jyvaskyla::10435
+University of La Laguna::19369
+University of Limerick::14221
+University of Louisville::24770
+University of Luebeck::/
+University of Luxembourg::4654
+University of Malaga::36707
+University of Murcia::29187
+University of Nebraska Medical Center::3285
+University of Nevada-Las Vegas::35512
+University of Oviedo::20900
+University of Quebec Montreal::/
+University of Salzburg::10050
+University of Shanghai for Science and Technology::25346
+University of Szeged::19700
+University of Tennessee Health Science Center::3412
+University of Texas at El Paso::29881
+University of the Balearic Islands::12267
+University of the Punjab::27907
+University of Toledo::22439
+University of Udine::11793
+University of Wisconsin-Milwaukee::21285
+University Putra Malaysia::20018
+Ural Federal University::25499
+Vilnius University::16216
+Wenzhou University::/
+Air Force Medical University::4000
+Ajou University::9906
+Al-Azhar University::/
+Anhui University of Technology::/
+Ankara University::69737
+Babeș-Bolyai University::37168
+Beijing Forestry University::19240
+Bournemouth University::/
+Changzhou University::20113
+Charles Darwin University::6899
+Cranfield University::/
+Czech Technical University in Prague::19499
+Czech University of Life Sciences Prague::17065
+Dokuz Eylul University::62844
+Dongguk University::/
+Dublin City University::14164
+Federal University of Ceara::34676
+Federal University of Pernambuco::34072
+Federal University of Santa Maria::27285
+Fordham University::/
+Free University of Bozen-Bolzano::/
+Gachon University::/
+Gdansk University of Technology::7152
+Graz University of Technology::9975
+Gwangju Institute of Science and Technology::2098
+Gyeongsang National University::/
+Hainan University::40000
+Hebei University of Technology::30382
+Heriot-Watt University::9740
+Indian Institute of Technology Kharagpur::9167
+Iran University of Science & Technology::13273
+Johannes Kepler University Linz::6122
+Kangwon National University::23127
+Khalifa University::/
+Lehigh University::6518
+Linnaeus University::/
+Manchester Metropolitan University::29835
+Mashhad University Medical Science::/
+Michigan Technological University::7657
+Miguel Hernandez University of Elche::12335
+Monterrey Institute of Technology and Higher Education::49696
+Montpellier Business School::3700
+Nagasaki University::9084
+Nanjing University of Chinese Medicine::15061
+Nantong University::30684
+National Central University::11467
+National Chung Hsing University::14100
+National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)::6489
+National Taiwan University of Science and Technology::9038
+National University of Colombia::52908
+National Yunlin University of Science and Technology::9151
+Norwegian University of Life Sciences::5790
+Okinawa Institute of Science and Technology Graduate University::/
+Osaka City University::8292
+Prince of Songkla University::39257
+Prince Sattam Bin Abdulaziz University::28000
+Royal College of Surgeons - Ireland::/
+Shandong First Medical University::33000
+Shantou University::12461
+Sichuan Agricultural University::43994
+Southern Cross University::16777
+Southwest University of Science and Technology::30000
+Sultan Qaboos University::/
+The Education University of Hong Kong::/
+The Royal Veterinary College::2270
+The University of Tokushima::7482
+Uniformed Services University of the Health Sciences - USA::/
+Universidade Federal de Pelotas::23198
+University Paris Est Creteil::/
+University of Alcalá::17446
+University of Cagliari::/
+University of Calabria::22044
+University of Canberra::15915
+G d'Annunzio University of Chieti-Pescara::/
+University of Cordoba::19063
+University of Girona::15218
+University of Ibadan::/
+University of Jinan::37413
+University of Kassel::/
+University of Lahore::/
+University of L'Aquila::18867
+University of Magdeburg::13563
+University of Messina::/
+University of Mississippi::/
+University of Missouri-Kansas City::19166
+University of Mons::/
+University of New England::22223
+University of North Carolina at Greensboro::22610
+University of Oklahoma - Oklahoma City::/
+University of Portsmouth::24362
+University of Savoy::/
+University of Stirling::9620
+University of Thessaly::17004
+University of Veterinary Medicine Vienna::/
+Warsaw University of Life Sciences::/
+Wroclaw Medical University::/
+Yanshan University::33708
+Yokohama City University::4976
+Zagazig University::156419
+Zhejiang Sci-Tech University::22903
+Adam Mickiewicz University::36207
+Aligarh Muslim University::18783
+Amherst College::1946
+Amity University::/
+Bocconi University::14148
+Brno University of Technology::/
+Budapest University of Technology and Economics::18219
+Carlos III University of Madrid::20958
+China Pharmaceutical University::15181
+China West Normal University::/
+Chungbuk National University::/
+Duy Tan University::22196
+Ege University::46056
+Erciyes University::39178
+Federal University of Bahia::40848
+Federal University of GoiÃ¡s::34158
+Federal University of Rio Grande do Norte::42573
+Ferdowsi University of Mashhad::23992
+Fırat University::/
+Florida Atlantic University::36970
+Foshan University::19323
+Gazi University::37388
+Guangdong University of Foreign Studies::/
+Hallym University::8108
+Hebei Medical University::14238
+Homi Bhabha National Institute::/
+Huaqiao University::30702
+Hunan Agricultural University::28620
+Hunan University of Technology::37907
+Illinois Institute of Technology::/
+International School for Advanced Studies::/
+Iran University of Medical Sciences::/
+Istanbul Technical University::36581
+Kafrelsheikh University::80000
+King Juan Carlos University::41972
+Kumamoto University::9730
+Liaocheng University::/
+Loyola University Chicago::19332
+Manipal University::/
+Medical University of Warsaw::10541
+Metropolitan Autonomous University::59542
+Middle East Technical University::26188
+Missouri University of Science and Technology::9265
+Nara Institute of Science and Technology::/
+National University of La Plata::/
+National University of Sciences and Technology Pakistan::/
+NHH - Norwegian School of Economics::3500
+Nicolaus Copernicus University::/
+Northeast Normal University::29236
+Ontario Tech University::/
+Portland State University::32445
+Qilu University of Technology::30000
+Qingdao University of Science and Technology::32168
+Quaid-i-Azam University::14694
+Ryerson University::33694
+Saitama University::8579
+Shanghai Normal University::29918
+South Dakota State University::14785
+Southwest Petroleum University::36940
+SRM INSTITUTE OF SCIENCE AND TECHNOLOGY::/
+SUNY College of Environmental Science and Forestry::2127
+SUNY Upstate Medical University::1661
+Technical University of Dortmund::34267
+Technical University of Ostrava::/
+The Graduate University for Advanced Studies::550
+Tianjin University of Technology::16000
+Tokyo University of Agriculture and Technology::/
+Tuscia University::/
+Universidad Andrés Bello::44327
+Universidad de Cadiz::18927
+Universidad de Las Palmas de Gran Canaria::17485
+Universidade Federal de Mato Grosso do Sul::25018
+University of Arkansas at Little Rock::12993
+University of Calcutta::/
+University of Cantabria::10361
+University of Concepcion::28256
+University of Hertfordshire::19475
+University of Insubria::13225
+University of Klagenfurt::3639
+University of Lincoln::13985
+University of Los Andes (Colombia)::15300
+University of Massachusetts Boston::19356
+University of Massachusetts Lowell::22084
+University of Montana - Missoula::7517
+University of Novi Sad::/
+University of Rhode Island::16011
+University of Salento::12040
+University of South Africa::193874
+University of South Bohemia::9738
+University of Tabriz::20983
+University of The Free State::40000
+University of Tours::27285
+University of Ulster::/
+University of Urbino::14278
+University of Valladolid::22418
+University of Wuppertal::23343
+Warsaw University of Technology::24818
+Western Norway University of Applied Sciences::/
+Wroclaw University of Science and Technology::/
+Yantai University::/
+Aston University::12880
+Banaras Hindu University::/
+New Mexico State University::/
+Shiraz University::/
+The Second Military Medical University::10000
+University of Windsor::/
+Yeshiva University::7112
+All India Institute of Medical Sciences::/
+BabeÈ™-Bolyai University::37168
+Henan Normal University::37978
+Uniformed Services University of the Health Sciences::/
+UniversitÃ© Gustave Eiffel::/
+University of AlcalÃ¡::17446
+University of St. Gallen::8846
+Aberystwyth University::6805
+Anna University::14428
+Bond University::5308
+China Three Gorges University::/
+CUNY Hunter College::28082
+Dalian Medical University::12773
+Ehime University::9333
+Federal University of ViÃ§osa::16780
+Gifu University::7264
+Haverford College::1368
+Indian Institutes of Science Education and Research (IISERs)::2300
+Lakehead University::8050
+Leuphana University Luneburg::/
+Liaoning University of Technology::13474
+Meijo University::15412
+Montana State University - Bozeman::13543
+National Taiwan Normal University::15219
+National University of Cordoba::59450
+Niigata University::12158
+Ritsumeikan University::34413
+Rutgers University - Newark::15897
+Singapore University of Technology & Design::1500
+Tokyo Medical University::/
+Universite de Tunis El Manar::24507
+University of Almeria::/
+University of Denver::14429
+University of Hohenheim::9599
+University of Osnabrueck::/
+University of Poitiers::/
+Vilnius Gediminas Technical University::/
+Williams College::2291
+Wuhan University of Science and Technology::32323
